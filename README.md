@@ -67,6 +67,8 @@ Of course we're fat! How do we **ever** expect to thrive on our modern diet?
 
 #### Get Support From The Community
 
+* [Keto for Normies](http://ketoconnect.libsyn.com/website)
+
 #### You Already Have A Six-Pack!
 
 A bit of encouragement before we actually start. You already have a six-pack, which you've cleverly hidden under fat. You burn away the fat to uncover your muscular glory.
