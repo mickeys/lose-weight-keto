@@ -22,11 +22,18 @@ By eating a balance of foods that's been telling your body to store what you eat
 
 ### Everything I Knew About Dieting Is Wrong!
 
-My grandmother repeatedly said "meat makes meat". My mother was all about whole wheat bread, vegetables, rice, and pasta. It's terrifying how wrong they were. Look at the population around you; we're fatter than we've ever been, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+My grandmother repeatedly said "meat makes meat". My mother was all about whole wheat bread, vegetables, rice, and pasta. It's terrifying how wrong they were. Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+
+<table>
+	<tr>
+		<td><img src="./images/weight_adults_1960_to_2014.jpg"><br>Adults, 1960-2014</td>
+		<td><img src="./images/weight_kids_1960_to_2014.jpg"><br>Children, 1960-2014</td>
+	</tr>
+</table>
 
 Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012).
 
-You'll have to let go of all the folk wisdom family and friends have been broadcasting as the truth since you were a baby. It's all wrong. We have science, we **know** what our bodies need to not be pudgy.
+You'll have to let go of all the folk wisdom family and friends have been broadcasting as the truth since you were a baby. It's all wrong. We now have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional science</a>, we **know** what our bodies need to not be pudgy.
 
 ## How Do I Get Thin, In Detail
 
@@ -56,9 +63,11 @@ Of course we're fat! How do we **ever** expect to thrive on our modern diet?
 
 #### Weigh And Log All Foods BEFORE you cook / eat them
 
-#### Exercise, Forget About It!
+#### Exercise? Forget About It!
 
-### You Already Have A Six-Pack!
+#### Get Support From The Community
+
+#### You Already Have A Six-Pack!
 
 A bit of encouragement before we actually start. You already have a six-pack, which you've cleverly hidden under fat. You burn away the fat to uncover your muscular glory.
 
