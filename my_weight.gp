@@ -12,8 +12,8 @@ set xdata time							# this is time data
 set format x "%Y"						# show only the year
 
 # global changes for all plots
-#set pointsize 1								# globally set points to this size
-#set style data linespoints					# globally set lines to this style
+#set pointsize 1						# globally set points to this size
+#set style data linespoints				# globally set lines to this style
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
@@ -28,11 +28,20 @@ set terminal svg \
 # -----------------------------------------------------------------------------
 set title  'My Weight Over Time (with Ways of Eating)' font ',18' offset 0,-1,0
 set xlabel 'Time' font ',14' offset 0,0.2,0
-set ylabel 'Weight (pounds)' font ',14' offset 1,0,0
+set ylabel 'Weight (pounds)' font ',14' offset 2,0,0
+set y2label 'Weight (kilograms)' font ',14' offset -4,0,0
 
 # axes labels
 set tics font ', 11' textcolor rgb 'red' nomirror scale 0
 set ytics rotate by 45 right
+
+set ytics nomirror
+set y2tics
+set link y2 via y*0.45 inverse y/0.45			# kilograms!
+
+# scale axes
+#set xrange["26/10/2010 13:00:00":"01/06/2018"]
+set yrange["170":"240"]
 
 # -----------------------------------------------------------------------------
 # background grid (linetype 0 = dashed lines)
@@ -50,8 +59,8 @@ unset key
 # -----------------------------------------------------------------------------
 set label 95 at "11/27/2009","171.1" offset 0,0.45 \
 	textcolor rgb "#104547" \
-	"  Ideal Body Weight"
-set arrow nohead linewidth 4 linecolor rgb "#104547" \
+	"  Ideal Body Weight  171 lbs 77 kg"
+set arrow nohead linewidth 1 linecolor rgb "#104547" \
 	from "11/27/2009","171.1" to "1/6/2018","171.1"
 #	from graph 0, graph 0.02 to graph 1, graph 0.02
 #set obj 16 rect fc rgb "green" \
