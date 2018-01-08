@@ -30,7 +30,7 @@ You'll have to let go of all the folk wisdom family and friends have been broadc
 
 ## How Do I Get Thin, In Detail
 
-<a href="https://www.flickr.com/photos/south-african-tourism/6252672423"><img src="./images/bushman_northern_cape_africa.jpg" width="50%" border="1" hspace="5"align="right"></a>
+<a href="https://www.flickr.com/photos/south-african-tourism/6252672423"><img src="./images/bushman_northern_cape_africa.jpg" width="50%" border="1" hspace="5" align="right"></a>
 Evolutionarily speaking, you're a bushman with a smartphone. Your body is optimized to efficiently live from stored fat. Over at least the last 100,000 years your <a href="https://www.sciencedaily.com/releases/2017/06/170607133246.htm">engine expects a diet</a> of mostly meat, some foraged veggies, and very intermittent delicious treats of berries, honey, etc. Mostly fat and protein.
 
 When sweet treats are eaten a metabolic toggle is flipped so we get energy from the delights and STORE THE EXTRA AS BODY FAT; who knows when the tribe will next encounter such wonderful things?
