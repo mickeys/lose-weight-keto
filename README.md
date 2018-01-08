@@ -26,8 +26,8 @@ My grandmother repeatedly said "meat makes meat". My mother was all about whole 
 
 <table>
 	<tr>
-		<td><img src="./images/weight_adults_1960_to_2014.jpg"><br>Adults, 1960-2014</td>
-		<td><img src="./images/weight_kids_1960_to_2014.jpg"><br>Children, 1960-2014</td>
+		<td><img src="./images/weight_adults_1960_to_2014-smaller.jpg"><br>Adults, 1960-2014</td>
+		<td><img src="./images/weight_kids_1960_to_2014-smaller.jpg"><br>Children, 1960-2014</td>
 	</tr>
 </table>
 
