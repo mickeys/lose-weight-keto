@@ -28,15 +28,15 @@ set terminal svg \
 # -----------------------------------------------------------------------------
 set title  'My Weight Over Time (with Ways of Eating)' font ',18' offset 0,-1,0
 set xlabel 'Time' font ',14' offset 0,0.2,0
-set ylabel 'Weight (pounds)' font ',14' offset 2,0,0
-set y2label 'Weight (kilograms)' font ',14' offset -4,0,0
+set ylabel 'Weight (pounds)' font ',14' offset 1.75,0,0
+set y2label 'Weight (kilograms)' font ',14' offset -3.75,0,0
 
 # axes labels
 set tics font ', 11' textcolor rgb 'red' nomirror scale 0
 set ytics rotate by 45 right
 
 set ytics nomirror
-set y2tics
+set y2tics rotate by -45 right offset 1,0
 set link y2 via y*0.45 inverse y/0.45			# kilograms!
 
 # scale axes
@@ -57,14 +57,14 @@ unset key
 # -----------------------------------------------------------------------------
 # ideal body weight
 # -----------------------------------------------------------------------------
+ideal_color='#104547'
 set label 95 at "11/27/2009","171.1" offset 0,0.45 \
-	textcolor rgb "#104547" \
+	textcolor rgb ideal_color \
 	"  Ideal Body Weight  171 lbs 77 kg"
-set arrow nohead linewidth 1 linecolor rgb "#104547" \
-	from "11/27/2009","171.1" to "1/6/2018","171.1"
-#	from graph 0, graph 0.02 to graph 1, graph 0.02
-#set obj 16 rect fc rgb "green" \
-#	from graph 0, graph 0.01 to graph 1, graph 0.02
+
+# I hate hard-coding, but using graph 0, "171.1" fails somehow...
+set arrow nohead linewidth 1 linecolor rgb ideal_color \
+	from "1/1/2009", "171.1" to "12/31/2018", "171.1"
 
 # -----------------------------------------------------------------------------
 # textboxes - labels & arrows
