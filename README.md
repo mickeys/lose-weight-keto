@@ -56,13 +56,21 @@ If you're reading this, interested in weight loss, you may not be thrilled with 
 
 It's good to know what modern medicine thinks is your <a href="https://www.calculator.net/ideal-weight-calculator.html">ideal weight</a>. It may not be _your_ target, but it's _a_ target. Aim at whatever weight you desire, but get an outside unbiased opinion.
 
-#### Buy A Food Scale
+#### Know The Quantities You're Eating
+
+<img src="./images/taylor_s-l1000_digital_food_scale-sm.jpg" align="left" hspace="5">The only way to be sure you're (1) eating less than your calorie target (2) getting your macronutrients (macros) is to know the quantities. In the beginning I would, for example, use only known amounts; the weight on the steak package, or the number of eggs. You can make this work, but it's difficlt. Quickly I bought a set of measuring spoons, a 2-cup measure, and a food scale. Optional, but makes losing weight much more assured.<br clear="left">
 
 #### Pick A Mobile App
 
+To succeed you'll need to weight and log everything that passes your lips **before** its consumed: suprises abound in foods. Look for a tracker with both a website and smartphone app; consider <a href="http://loseit.com/">LoseIt!</a> or <a href="https://www.myfitnesspal.com/">MyFtnessPal</a>.
+
 #### Empty Your Fridge Of High-Carb Foods
 
+I can't stress this enough. If I had "bad" foods within reach I was certain to eat it. 
+
 #### Stock Your Fridge With Low-Carb Foods
+
+Read labels!
 
 #### Weigh And Log All Foods BEFORE you cook / eat them
 
