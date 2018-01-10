@@ -72,11 +72,10 @@ unset key
 # -----------------------------------------------------------------------------
 # ideal body weight
 # -----------------------------------------------------------------------------
-ideal_color='#104547'
 ideal_color='black'
-set label 95 at start_hack,"171.1" offset 0,0.45 \
+set label 95 at start_hack,"171.1" offset 1,0.45 \
 	textcolor rgb ideal_color \
-	"  Ideal Body Weight  171 lbs 77 kg"
+	"Ideal Body Weight  171 lbs 77 kg"
 
 # I hate hard-coding, but using graph 0, "171.1" fails somehow...
 set arrow nohead linewidth 1 linecolor rgb ideal_color \
@@ -85,44 +84,50 @@ set arrow nohead linewidth 1 linecolor rgb ideal_color \
 # -----------------------------------------------------------------------------
 # textboxes - labels & arrows
 # -----------------------------------------------------------------------------
-set style textbox opaque \
+set style textbox \
 	border bordercolor "green" \
 	fillcolor "red" # margins 1,1 
-set label 1 font ",9" at graph 0.59, graph 0.15 \
+set label 1 font ",9" at graph 0.7, graph 0.15 \
 	"What one eats between Christmas\nand New Years is not as important\nas what one eats between\nNew Years and Christmas!" front boxed
 set arrow nohead linewidth 2 linecolor rgb "black" \
-	from graph 0.72, graph 0.17 to "12/23/2017","196.4"
+	from graph 0.8, graph 0.17 to "12/23/2017","196.4"
 
 # -----------------------------------------------------------------------------
 # WoE rects (from left to right)
 # -----------------------------------------------------------------------------
-set style rect fc lt -1 fillstyle transparent solid 0.5 noborder transparent
+#set style rect fc lt -1 fillstyle transparent solid 0.5 noborder transparent
 
-# mummy's tomb
+woe_color="#a9a9a9"
+
 #set obj 17 rect fc rgb "#93b1a7" \
 #	from graph 0, graph 1 to "03/05/2012", graph 0
-set label 96 at start_hack, graph 0.95 "  CICO"
+set label 96 at start_hack, graph 0.97 offset 0.5,0 \
+	textcolor rgb woe_color \
+	"CICO"
 
-woe_color="gray"
 atkins_start="3/5/2012"
 #set obj 18 rect fc rgb "#99c2a2" \
 #	from atkins_start, graph 1.1 to low_carb_start, graph 0
-set label 98 at atkins_start, graph 0.95 "  Atkins"
+set label 98 at atkins_start, graph 0.97 offset 0.5,0 \
+	textcolor rgb woe_color "Atkins"
 set arrow nohead linewidth 1 linecolor rgb woe_color \
 	from atkins_start, graph 1.0 to atkins_start, "235.2"
 
 low_carb_start="2/17/2014"
 #set obj 19 rect fc rgb "#c5edac" \
 #	from low_carb_start, graph 1.1 to keto_start, graph 0
-set label 97 at low_carb_start, graph 0.95 \
-	"  Casual low-carb plus lots of travel"
+set label 97 at low_carb_start, graph 0.97 offset 0.5,0 \
+	textcolor rgb woe_color \
+	"Lazy carb and many foreign trips"
 set arrow nohead linewidth 1 linecolor rgb woe_color \
 	from low_carb_start, graph 1.0 to low_carb_start, "174.0"
 
 keto_start="10/30/2017"
 #set obj 20 rect fc rgb "#dbfeb8" \
 #	from keto_start, graph 1 to graph 1, graph 0
-set label 99 at keto_start, graph 0.95 "  Keto"
+set label 99 at keto_start, graph 0.97 offset 0.5,0 \
+	textcolor rgb woe_color \
+	"Keto"
 set arrow nohead linewidth 1 linecolor rgb woe_color \
 	from keto_start, graph 1.0 to keto_start, "220.0"
 
