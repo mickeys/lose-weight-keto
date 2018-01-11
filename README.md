@@ -54,6 +54,8 @@ Of course we're fat! We're eating the wrong fuel and storing the energy as body 
 
 If you're reading this, interested in weight loss, you may not be thrilled with your body right now.
 
+<img src="./images/20180111.jpg"><p>
+
 <img src="./images/20180111_186_2_lbs_cropped.jpg" border="1" align"right">
 
 <img src="./images/ranger_mickey-frog_pond-black_rock_desert_EspressoBuzz_cropped.jpg" border="1" align="left">Trust me, take 'before' pictures; they'll be an unbelievable reward a few months down the road. I didn't and I regret it. The closest that I have I'm showing here. 
