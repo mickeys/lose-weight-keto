@@ -22,16 +22,27 @@ By eating only foods that tell your body to store what you eat as fat, and eatin
 
 ### Everything I Knew About Dieting Is Wrong!
 
+<img src="./images/globe_and_mail_ads.png" hspace="5" align="left">
 Almost all foods touted as "healthy" are very much just the opposite, causing you to add to your body fat -- very disheartening.
 
-My grandmother repeatedly said "meat makes meat" (eating meat makes one fat); she and my mother was all about whole wheat bread, vegetables, rice, and pasta. It's terrifying how wrong they were. Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+My German grandmother repeatedly said "meat makes meat" (eating meat makes one fat); she and my mother was all about whole wheat bread, vegetables, rice, and pasta. Each morning in the old country the kids were each fed a tablespoon of glucose and another of fructose; a practice deemed essential to children's health.
 
+It's terrifying how wrong their food choices were; I spent at least two decades of my life being haunted by the joys of eating.
+
+The irony is that low-carb high-fat (LCFH) diets were anecdotally known to doctors between the 1820s and 1950s. The scientific examination began with Dr. William Harvey and his obese patient, William Banting, in 1862. His prescription was no starch and sugar, no beer or potatoes; only meat, fish, vegetables, and wine. His healthy eating book, _Letter on Corpulence_, was published a year later. 
+
+When I travelled to Scotland I was surprised that Dr. Atkins is pretty unknown; LCHF eating is known as "Banting".
+<br clear="left">
+
+Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+<center>
 <table>
 	<tr>
 		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./images/weight_adults_1960_to_2014-smaller.jpg"><br>Adults, 1960-2014</a></td>
 		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./images/weight_kids_1960_to_2014-smaller.jpg"><br>Children, 1960-2014</a></td>
 	</tr>
 </table>
+</center>
 
 Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012). Or read a <a href="http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise">good article for layman</a>.
 
@@ -56,9 +67,9 @@ If you're reading this, interested in weight loss, you may not be thrilled with 
 
 <img src="./images/ranger_mickey-frog_pond-black_rock_desert_EspressoBuzz_cropped.jpg" border="1" align="left" hspace="5"><img src="./images/20180111.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
 
-I didn't and I regret it. The closest that I have are the photos you see here.
+I didn't and I regret it; I was sporting quite the paunch. I was not happy with the mirror. The closest that I have are the photos you see here.
 
-Remember that everyone's progress is different, starting with gender and finishing with calorie deficit, adherence to the macrs (macronutrient numbers), and cheat days (which you won't have).
+Remember that everyone's progress is different, starting with gender and finishing with calorie deficit, adherence to the "macros" (macronutrient numbers), and cheat days (which you won't have).
 <br clear="left">
 
 #### Figure Out Your Ideal Weight
@@ -67,7 +78,7 @@ It's good to know what modern medicine thinks is your <a href="https://www.calcu
 
 #### Know The Quantities You're Eating
 
-<img src="./images/taylor_s-l1000_digital_food_scale-sm.jpg" align="left" hspace="5">The only way to be sure you're (1) eating less than your calorie target (2) getting your macronutrients (macros) is to know the quantities. In the beginning I would, for example, use only known amounts; the weight on the steak package, or the number of eggs. You can make this work, but it's difficlt. Quickly I bought a set of measuring spoons, a 2-cup measure, and a food scale. Optional, but makes losing weight much more assured.<br clear="left">
+<img src="./images/taylor_s-l1000_digital_food_scale-sm.jpg" align="right" hspace="5">The only way to be sure you're (1) eating less than your calorie target (2) getting your macronutrients (macros) is to know the quantities. In the beginning I would, for example, use only known amounts; the weight on the steak package, or the number of eggs. You can make this work, but it's difficlt. Quickly I bought a set of measuring spoons, a 2-cup measure, and a food scale. Optional, but makes losing weight much more assured.<br clear="right">
 
 #### Pick A Mobile App
 
