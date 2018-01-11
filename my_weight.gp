@@ -42,7 +42,7 @@ set terminal svg \
 # chart title and axes labels
 # -----------------------------------------------------------------------------
 set title textcolor rgb title_color
-set title 'Weight and WOEs (Ways of Eating)' \
+set title 'My Weight and WOEs (Ways of Eating) over time' \
 	font ',18' offset 0,-1,0 \
 	textcolor rgb title_color
 #set xlabel 'Time' font ',14' offset 0,0.2,0
@@ -102,7 +102,7 @@ set label 1 font ',11' at graph 0.65, graph 0.15 front \
 	"What one eats between Christmas\nand New Years is not as important\nas what one eats between\nNew Years and Christmas!" front boxed
 set label 2 font ',11' at low_carb_start, graph 0.97 offset 2,-4 \
 	textcolor rgb "red" \
-	"Keto\n10/30/2017 start - 220.0 lbs / 100 kg\n01/10/2018 today - 186.2 lbs / 84.5 kg\ndays since start = 72\nweight lost = 33.8 lbs / 15.3 kg\nloss/day = 0.45 lbs / 0.2 kg"
+	"Keto weight-loss phase\n10/30/2017 start - 220.0 lbs / 100 kg\n01/10/2018 today - 186.2 lbs / 84.5 kg\ndays since start = 72\nweight lost = 33.8 lbs / 15.3 kg\nloss/day = 0.45 lbs / 0.2 kg"
 set arrow nohead linewidth 2 linecolor rgb "black" \
 	from graph 0.8, graph 0.17 to "12/23/2017","196.4"
 

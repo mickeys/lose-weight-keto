@@ -1,4 +1,4 @@
-# How I Lost 50 Pounds, For Free, On Keto
+# Simple, Sane, and Simple Keto
 
 This my explanation of how I lost 50 pounds on [keto](https://en.m.wikipedia.org/wiki/Ketogenic_diet). I did this, quickly, without _needing_ to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
@@ -8,21 +8,23 @@ This my explanation of how I lost 50 pounds on [keto](https://en.m.wikipedia.org
 
 ## How Do I Get Thin?
 
-There are two steps necessary to get thin.
+There are exactly two steps necessary to get thin.
 
 1. **<font color="red">Get into the right frame of mind.</font>** The weight loss phase is a **limited period of time** during which you'll eat a limited variety of food. No cheat days during this loss phase. Deal with it! You can do it! Cheat later.
 
-2. **<font color="red">Weigh, log, and eat</font>** (in that order) only foods that tell your body to consume your fat for energy.
+2. **<font color="red">Weigh, log, and eat</font>** (in that order) only foods that consume your body fat for energy.
 
 Details on how to do this are only a few paragraphs below; hang on.
 
 ## How Did I Get Fat?
 
-By eating a balance of foods that's been telling your body to store what you eat as fat. Almost everything touted as healthy is very much just the opposite.
+By eating only foods that tell your body to store what you eat as fat, and eating a quantity that powers your body (and no more).
 
 ### Everything I Knew About Dieting Is Wrong!
 
-My grandmother repeatedly said "meat makes meat"; she and my mother was all about whole wheat bread, vegetables, rice, and pasta. It's terrifying how wrong they were. Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+Almost all foods touted as "healthy" are very much just the opposite, causing you to add to your body fat -- very disheartening.
+
+My grandmother repeatedly said "meat makes meat" (eating meat makes one fat); she and my mother was all about whole wheat bread, vegetables, rice, and pasta. It's terrifying how wrong they were. Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
 
 <table>
 	<tr>
@@ -31,7 +33,7 @@ My grandmother repeatedly said "meat makes meat"; she and my mother was all abou
 	</tr>
 </table>
 
-Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012).
+Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012). Or read a <a href="http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise">good article for layman</a>.
 
 You'll have to let go of all the folk wisdom family and friends have been broadcasting as the truth since you were a baby. It's all wrong. We now have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional science</a>, we **know** what our bodies need to not be pudgy.
 
@@ -50,7 +52,10 @@ Of course we're fat! We're eating the wrong fuel and storing the energy as body 
 
 #### Take 'Before' Pictures
 
-If you're reading this, interested in weight loss, you may not be thrilled with your body right now. Take 'before' pictures; they'll be an unbelievable reward a few months down the road. I didn't and I regret it.
+If you're reading this, interested in weight loss, you may not be thrilled with your body right now.
+
+<img src="./images/ranger_mickey-frog_pond-black_rock_desert_EspressoBuzz_cropped.jpg" border="1" align="left">Trust me, take 'before' pictures; they'll be an unbelievable reward a few months down the road. I didn't and I regret it.<img src="./images/20180111_186.2_lbs_cropped.jpg" border="1" align"right">
+<br clear="left">
 
 #### Figure Out Your Ideal Weight
 
@@ -66,11 +71,11 @@ To succeed you'll need to weight and log everything that passes your lips **befo
 
 #### Empty Your Fridge Of High-Carb Foods
 
-I can't stress this enough. If I had "bad" foods within reach I was certain to eat it. 
+I can't stress this enough. If I had "bad" foods within reach I was certain to eat it. Give away <u>everything</u> that will sabotage your weight loss; be ruthless. If you're sharing living space carve out a cabinet as yours; label it "Keep Out - Keto Only".
 
 #### Stock Your Fridge With Low-Carb Foods
 
-Read labels!
+<img src="./images/nutrition_label.jpg" align="left" hspace="5">Read labels!<br clear="left">
 
 #### Weigh And Log All Foods BEFORE you cook / eat them
 
@@ -94,9 +99,9 @@ A bit of encourage  ment before we actually start. You already have a six-pack, 
 
 #### Hamburger, Onion Rings, Mayo, Cheese
 
-### Cheat Days?
+### If you're tired of starting over, don't give up!
 
-No. See above.
+Cheat days? Sabotage meals? None during your limited weight-loss phase. You'll figure it out when you're in maintenance phase. ("If something is important to you you'll find a way. If it is not you'll find an excuse.")
 
 ## How Does Keto Work?
 
