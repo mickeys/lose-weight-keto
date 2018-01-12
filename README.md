@@ -2,7 +2,7 @@
 
 This my explanation of how I lost 50 pounds on [keto](https://en.m.wikipedia.org/wiki/Ketogenic_diet). I did this, quickly, without _needing_ to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
-![my weight](./images/my_weight.svg)
+![my weight](./i/my_weight.svg)
 
 <u>Obligatory liability warning</u>: This is merely **my** anecdotal experience. Consult your doctor before adopting any diet or exercise regimen. Nothing here should be construed as medical advice.
 
@@ -22,7 +22,7 @@ By eating only foods that tell your body to store what you eat as fat, and eatin
 
 ### Everything I Knew About Dieting Is Wrong!
 
-<img src="./images/globe_and_mail_ads.png" hspace="5" align="left">
+<img src="./i/globe_and_mail_ads.png" hspace="5" align="left">
 Almost all foods touted as "healthy" are very much just the opposite, causing you to add to your body fat -- very disheartening.
 
 My German grandmother repeatedly said "meat makes meat" (eating meat makes one fat); she and my mother was all about whole wheat bread, vegetables, rice, and pasta. Each morning in the old country the kids were each fed a tablespoon of glucose and another of fructose; a practice deemed essential to children's health.
@@ -38,8 +38,8 @@ Look at the population around you; we're <a href="https://www.niddk.nih.gov/heal
 <center>
 <table>
 	<tr>
-		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./images/weight_adults_1960_to_2014-smaller.jpg"><br>Adults, 1960-2014</a></td>
-		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./images/weight_kids_1960_to_2014-smaller.jpg"><br>Children, 1960-2014</a></td>
+		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./i/weight_adults_1960_to_2014-smaller.jpg"><br>Adults, 1960-2014</a></td>
+		<td><a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity"><img src="./i/weight_kids_1960_to_2014-smaller.jpg"><br>Children, 1960-2014</a></td>
 	</tr>
 </table>
 </center>
@@ -50,7 +50,7 @@ You'll have to let go of all the folk wisdom family and friends have been broadc
 
 ## How Do I Get Thin, In Detail
 
-<a href="https://www.flickr.com/photos/south-african-tourism/6252672423"><img src="./images/bushman_northern_cape_africa.jpg" width="50%" border="1" hspace="5" align="right"></a>
+<a href="https://www.flickr.com/photos/south-african-tourism/6252672423"><img src="./i/bushman_northern_cape_africa.jpg" width="50%" border="1" hspace="5" align="right"></a>
 Evolutionarily speaking, you're a bushman with a smartphone. Your body is optimized to efficiently live from stored fat. Over at least the last 100,000 years your <a href="https://www.sciencedaily.com/releases/2017/06/170607133246.htm">engine expects a diet</a> of mostly meat, some foraged veggies, and very intermittent delicious treats of berries, honey, etc. Mostly fat and protein.
 
 When sweet treats (sugars) are eaten a metabolic toggle is flipped so we get energy from the delights and STORE THE EXTRA AS BODY FAT; who knows when the tribe will next encounter such wonderful things?
@@ -59,13 +59,13 @@ Complely unknown in the African bush were high-carbohydrate "healthy" foods (whi
 
 Of course we're fat! We're eating the wrong fuel and storing the energy as body fat.<br clear="right">
 
-### How To Start
+### How To Start Losing Weight With Keto
 
 #### Take 'Before' Pictures
 
 If you're reading this, interested in weight loss, you may not be thrilled with your body right now.
 
-<img src="./images/ranger_mickey-frog_pond-black_rock_desert_EspressoBuzz_cropped.jpg" border="1" align="left" hspace="5"><img src="./images/20180111.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
+<img src="./i/ranger_mickey-frog_pond-black_rock_desert_EspressoBuzz_cropped.jpg" border="1" align="left" hspace="5"><img src="./i/20180111.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
 
 I didn't and I regret it; I was sporting quite the paunch. I was not happy with the mirror. The closest that I have are the photos you see here.
 
@@ -78,7 +78,7 @@ It's good to know what modern medicine thinks is your <a href="https://www.calcu
 
 #### Know The Quantities You're Eating
 
-<img src="./images/taylor_s-l1000_digital_food_scale-sm.jpg" align="right" hspace="5">The only way to be sure you're (1) eating less than your calorie target (2) getting your macronutrients (macros) is to know the quantities. In the beginning I would, for example, use only known amounts; the weight on the steak package, or the number of eggs. You can make this work, but it's difficlt. Quickly I bought a set of measuring spoons, a 2-cup measure, and a food scale. Optional, but makes losing weight much more assured.<br clear="right">
+<img src="./i/taylor_s-l1000_digital_food_scale-sm.jpg" align="right" hspace="5">The only way to be sure you're (1) eating less than your calorie target (2) getting your macronutrients (macros) is to know the quantities. In the beginning I would, for example, use only known amounts; the weight on the steak package, or the number of eggs. You can make this work, but it's difficlt. Quickly I bought a set of measuring spoons, a 2-cup measure, and a food scale. Optional, but makes losing weight much more assured.<br clear="right">
 
 #### Pick A Mobile App
 
@@ -90,7 +90,14 @@ I can't stress this enough. If I had "bad" foods within reach I was certain to e
 
 #### Stock Your Fridge With Low-Carb Foods
 
-<img src="./images/nutrition_label.jpg" align="left" hspace="5">Read labels!<br clear="left">
+<img src="./i/nutrition_label.jpg" align="left" hspace="5">Read the labels!
+
+During the weight-loss phase buy nothing that shows more than a carb; they sneakily add up.
+
+Hide lower-fat and fat-free options; because fat is your body's preferred fuel and because to remove fat they've resorted to adding a cornucopia of unpalettable ingredients, like guar gum. Whole, unadulterated foods are better for you.
+
+Be mindful of calories. You'll have to eat less calories than a certain level (that you'll calculate shortly). Although calories are important, the _kind_ of calories you eat determine your hormonal response to food, which in turn determines whether your body will store or release fat. 
+<br clear="left">
 
 #### Weigh And Log All Foods BEFORE you cook / eat them
 
