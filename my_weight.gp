@@ -20,16 +20,18 @@ set output 'i/my_weight.png'			# our output goes there
 #	from STATS_min, graph 0.5 \
 #	to STATS_max, graph 0.5
 
-start_date='11/27/2009'
-start_weight='237.0'
+today_date='01/13/2018'
+today_weight='184.8'
+#keto_days='73'							# https://days.to/30-october/2017
 
-keto_start='10/31/2017'
-keto_weight='220.0'
+program_start_date='11/27/2009'
+program_start_weight='237.0'
 
-today_date='01/12/2018'
-today_weight='185.8'
+keto_loss_start_date='10/31/2017'
+keto_loss_start_weight='220.0'
 
-keto_days='73'							# https://days.to/30-october/2017
+atkins_loss_start_date='03/05/2012'
+atkins_loss_start_weight='235.2'
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
@@ -38,16 +40,16 @@ keto_days='73'							# https://days.to/30-october/2017
 start_secs=system( "/usr/local/opt/coreutils/libexec/gnubin/date -d '00:00' +%s" )
 stop_secs_cmd=sprintf( "%s -d %s %s", \
 	'/usr/local/opt/coreutils/libexec/gnubin/date', \
-	keto_start, \
+	keto_loss_start_date, \
 	'+%s' )
 stop_secs=system( stop_secs_cmd )
 keto_days=((start_secs - stop_secs) / ( 60 * 60 * 24 ) )
 
-loss_lbs=( keto_weight - today_weight )
+loss_lbs=( keto_loss_start_weight - today_weight )
  lb_to_kg=0.45
 keto_loss_phase_str=sprintf("%s (%d days)\n%s start - %s lb (%.2f kg)\n%s today - %s lb (%.2f kg)\nlost = %.2f lb (%.2f kg)\naverage loss/day = %.2f lb (%.2f kg)", \
 	"Keto weight-loss phase", keto_days, \
-	start_date, start_weight, ( start_weight * lb_to_kg ), \
+	program_start_date, program_start_weight, ( program_start_weight * lb_to_kg ), \
 	today_date, today_weight, ( today_weight * lb_to_kg ), \
 	loss_lbs, ( loss_lbs * lb_to_kg ), \
 	( loss_lbs / keto_days), \
@@ -65,20 +67,20 @@ cico_start="11/27/2009"
 cico_weight="237.0"
 atkins_start="3/5/2012"
 low_carb_start="2/17/2014"
-keto_start="10/30/2017"
+keto_loss_start_date="10/30/2017"
 
 ##set style rect fc lt -1 fillstyle transparent solid 0.5 noborder
 #set style rectangle front linewidth 1 fs solid 1.0 border lt -1
 #set obj 16 rect fc rgb "red" \
-#	from start_date, start_weight \
+#	from program_start_date, program_start_weight \
 #	to today_date, today_weight
 
 #set arrow filled nohead  ls 2 \
-#	from start_date,"172" to today_date,"172"
+#	from program_start_date,"172" to today_date,"172"
 
 set xdata time							# this is time data
 set format x "%Y"						# show only the year
-set xrange [start_date:today_date]
+set xrange [program_start_date:today_date]
 
 # global changes for all plots
 #set pointsize 1						# globally set points to this size
@@ -104,7 +106,6 @@ set tics font ', 8' textcolor rgb 'red' nomirror scale 0
 set ytics rotate by 45 right
 
 # y2 axis now shows kilograms
-#set ytics nomirror
 set y2tics rotate by -45 right offset 1,0
 set link y2 via y* lb_to_kg inverse y/ lb_to_kg			# kilograms!
 
@@ -131,13 +132,13 @@ unset key
 # ideal body weight
 # -----------------------------------------------------------------------------
 ideal_color='#006400' # darkgreen
-set label 95 at start_date,"171.1" offset 1, lb_to_kg \
+set label 95 at program_start_date,"171.1" offset 1, lb_to_kg \
 	front font ',9' textcolor rgb ideal_color \
 	"Ideal Body Weight - 171 lb (77 kg)"
 
 # I hate hard-coding, but using graph 0, "171.1" fails somehow...
 set arrow nohead front linewidth 1 linecolor rgb ideal_color \
-	from start_date, "171.1" to today_date, "171.1"
+	from program_start_date, "171.1" to today_date, "171.1"
 
 # -----------------------------------------------------------------------------
 # textboxes - labels & arrows
@@ -148,11 +149,29 @@ set arrow nohead front linewidth 1 linecolor rgb ideal_color \
 set label 1 font ',9' at graph 0.65, graph 0.15 front \
 	"What one eats between Christmas\nand New Years is not as important\nas what one eats between\nNew Years and Christmas!" front boxed
 
-set style textbox border bordercolor "black"
+set style textbox border bordercolor "black" opaque
+# keto_loss_phase_str
 set label 999 font ',9' textcolor rgb "red" \
 	front boxed \
 	at low_carb_start, graph 0.97 offset 2,-1.5 \
 	sprintf( "%s", keto_loss_phase_str )
+# program_start_*
+set label 998 font ',9' textcolor rgb "black" \
+	front boxed \
+	at program_start_date, program_start_weight offset 1,-0.5 \
+	sprintf( "%s", program_start_weight )
+# atkins_loss_start_*
+set label 997 font ',9' textcolor rgb "black" \
+	front boxed \
+	at atkins_loss_start_date, atkins_loss_start_weight offset 1,0 \
+	sprintf( "%s", atkins_loss_start_weight )
+# atkins low point
+set label 996 font ',9' textcolor rgb "black" \
+	front boxed \
+	at "04/28/2014","173.0" offset 1,0 \
+	sprintf( "%s", "173.0" )
+
+
 
 #set label 2 sprintf( "%s", keto_loss_phase_str ) \
 #	at low_carb_start, graph 0.97 offset 1,-3 \
@@ -160,9 +179,9 @@ set label 999 font ',9' textcolor rgb "red" \
 set arrow nohead front linewidth 1 linecolor rgb "black" \
 	from graph 0.8, graph 0.17 to "12/16/2017","196.3"
 
-set label 3 sprintf( "%s", keto_weight ) \
+set label 3 sprintf( "%s", keto_loss_start_weight ) \
 	boxed left offset 1,0 font ',8' \
-	at keto_start, keto_weight
+	at keto_loss_start_date, keto_loss_start_weight
 set label 4 sprintf( "%s", today_weight ) \
 	boxed left offset 1,0 font ',8' \
 	at today_date, today_weight
@@ -177,7 +196,7 @@ set label 4 sprintf( "%s", today_weight ) \
 set arrow nohead linewidth 1 linecolor rgb title_color \
 	from cico_start, graph 1.0 to cico_start, "237.0"
 
-set label 96 at start_date, graph 0.97 offset 0.5,0 \
+set label 96 at program_start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' "CICO"
 #	from atkins_start, graph 1.1 to low_carb_start, graph 0
 set label 98 at atkins_start, graph 0.97 offset 0.5,0 \
@@ -187,7 +206,7 @@ set arrow nohead linewidth 1 linecolor rgb title_color \
 	from atkins_start, graph 1.0 to atkins_start, "235.2"
 
 #set obj 19 rect fc rgb "#c5edac" \
-#	from low_carb_start, graph 1.1 to keto_start, graph 0
+#	from low_carb_start, graph 1.1 to keto_loss_start_date, graph 0
 set label 97 at low_carb_start, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' \
 	"Lazy carb and many foreign trips"
@@ -195,12 +214,12 @@ set arrow nohead front linewidth 1 linecolor rgb title_color \
 	from low_carb_start, graph 1.0 to low_carb_start, "174.0"
 
 #set obj 20 rect fc rgb "#dbfeb8" \
-#	from keto_start, graph 1 to graph 1, graph 0
-set label 99 at keto_start, graph 0.97 offset 0.5,0 \
+#	from keto_loss_start_date, graph 1 to graph 1, graph 0
+set label 99 at keto_loss_start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' \
 	"Keto"
 set arrow nohead front linewidth 1 linecolor rgb title_color \
-	from keto_start, graph 1.0 to keto_start, "220.0"
+	from keto_loss_start_date, graph 1.0 to keto_loss_start_date, keto_loss_start_weight
 
 # -----------------------------------------------------------------------------
 # Now actually plot the data

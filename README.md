@@ -83,7 +83,7 @@ Of course we're fat! We're eating the wrong fuel and storing the energy as body 
 
 If you're reading this, interested in weight loss, you may not be thrilled with your body right now.
 
-<img src="./i/20100704_mickey_by_espressobuzz-cropped.jpg" border="1" align="left" hspace="5"><img src="./i/20180113_186_2.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
+<img src="./i/20100704_mickey_by_espressobuzz-cropped.jpg" border="1" align="left" hspace="5"><img src="./i/my_keto_weight_loss_curve.png" border="1" align="left" hspace="5"><img src="./i/20180113_186_2.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
 
 I didn't and I regret it; I was sporting quite the paunch. I was not happy with the mirror. The closest that I have are the photos you see here.
 
