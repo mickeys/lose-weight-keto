@@ -1,15 +1,55 @@
 set datafile separator ","				# needed to process CSV files
 file='loseit.csv'						# our input comes from here
-set output 'images/my_weight.svg'		# our output goes there
+set output 'i/my_weight.svg'			# our output goes there
 
-start_hack="11/27/2009"
-today_hack="01/11/2018"
+#reset
+#set xdata
+#timefmt='%m/%d/%Y'
+#stats file using (strptime(timefmt,strcol(1)))
+#print STATS_min
+#print STATS_max
+#set arrow nohead linewidth 10 linecolor rgb "orange" \
+#	from STATS_min, graph 0.5 \
+#	to STATS_max, graph 0.5
+
+start_date='11/27/2009'
+start_weight='237.0'
+
+keto_start='10/31/2017'
+keto_weight='220.0'
+
+today_date='01/12/2018'
+today_weight='185.8'
+
+keto_days='73'							# https://days.to/30-october/2017
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # keto loss rate
-#start_day='72'					# https://days.to/30-october/2017
-#start_weight='220.0'
-#end_weight='186.2'
-#(220.0-186.2)/72=0.45
 
+start_secs=system( "/usr/local/opt/coreutils/libexec/gnubin/date -d '00:00' +%s" )
+stop_secs_cmd=sprintf( "%s -d %s %s", \
+	'/usr/local/opt/coreutils/libexec/gnubin/date', \
+	keto_start, \
+	'+%s' )
+stop_secs=system( stop_secs_cmd )
+keto_days=((start_secs - stop_secs) / ( 60 * 60 * 24 ) )
+
+loss_lbs=( keto_weight - today_weight )
+lbs_to_kg=0.45
+keto_loss_phase_str=sprintf("%s\n%s start - %s lbs / %.2f kg\n%s today - %s lbs / %.2f kg\nweight lost = %.2f lbs / %.2f kg\nketo loss phase = %d days\naverage loss/day = %.2f lbs / %.2f kg", \
+	"Keto weight-loss phase:", \
+	start_date, start_weight, ( start_weight * lbs_to_kg ), \
+	today_date, today_weight, ( today_weight * lbs_to_kg ), \
+	loss_lbs, ( loss_lbs * lbs_to_kg ), \
+	keto_days, \
+	( loss_lbs / keto_days), \
+	( ( loss_lbs * lbs_to_kg ) / keto_days) \
+	)
+print keto_loss_phase_str
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 timefmt='%m/%d/%Y'
 set timefmt timefmt						# incoming as "12/10/2017"
 set key autotitle columnhead			# consume first line
@@ -18,12 +58,19 @@ atkins_start="3/5/2012"
 low_carb_start="2/17/2014"
 keto_start="10/30/2017"
 
+
+##set style rect fc lt -1 fillstyle transparent solid 0.5 noborder
+#set style rectangle front linewidth 1 fs solid 1.0 border lt -1
+#set obj 16 rect fc rgb "red" \
+#	from start_date, start_weight \
+#	to today_date, today_weight
+
 #set arrow filled nohead  ls 2 \
-#	from start_hack,"172" to today_hack,"172"
+#	from start_date,"172" to today_date,"172"
 
 set xdata time							# this is time data
 set format x "%Y"						# show only the year
-set xrange [start_hack:today_hack]
+set xrange [start_date:today_date]
 
 # global changes for all plots
 #set pointsize 1						# globally set points to this size
@@ -59,7 +106,7 @@ set ytics rotate by 45 right
 # y2 axis now shows kilograms
 #set ytics nomirror
 set y2tics rotate by -45 right offset 1,0
-set link y2 via y*0.45 inverse y/0.45			# kilograms!
+set link y2 via y*lbs_to_kg inverse y/lbs_to_kg			# kilograms!
 
 # x2 axis now shows my age
 ##set link x2 via str2num(strftime(timefmt,$1))-1963 inverse x*1
@@ -84,13 +131,13 @@ unset key
 # ideal body weight
 # -----------------------------------------------------------------------------
 ideal_color='black'
-set label 95 at start_hack,"171.1" offset 1,0.45 \
+set label 95 at start_date,"171.1" offset 1,lbs_to_kg \
 	textcolor rgb ideal_color \
 	"Ideal Body Weight  171 lbs 77 kg"
 
 # I hate hard-coding, but using graph 0, "171.1" fails somehow...
 set arrow nohead linewidth 1 linecolor rgb ideal_color \
-	from start_hack, "171.1" to today_hack, "171.1"
+	from start_date, "171.1" to today_date, "171.1"
 
 # -----------------------------------------------------------------------------
 # textboxes - labels & arrows
@@ -100,11 +147,20 @@ set style textbox \
 	fillcolor "red" # margins 1,1 
 set label 1 font ',11' at graph 0.65, graph 0.15 front \
 	"What one eats between Christmas\nand New Years is not as important\nas what one eats between\nNew Years and Christmas!" front boxed
-set label 2 font ',11' at low_carb_start, graph 0.97 offset 2,-4 \
-	textcolor rgb "red" \
-	"Keto weight-loss phase\n10/30/2017 start - 220.0 lbs / 100 kg\n01/10/2018 today - 186.2 lbs / 84.5 kg\ndays since start = 72\nweight lost = 33.8 lbs / 15.3 kg\nloss/day = 0.45 lbs / 0.2 kg"
+
+set label 2 sprintf( "%s", keto_loss_phase_str ) \
+	at low_carb_start, graph 0.97 offset 1,-3 \
+	font ',11' textcolor rgb "red"
 set arrow nohead linewidth 2 linecolor rgb "black" \
 	from graph 0.8, graph 0.17 to "12/23/2017","196.4"
+
+set style textbox border bordercolor "black" linewidth 2 
+set label 3 sprintf( "%s", keto_weight ) \
+	boxed left offset 1,0 \
+	at keto_start, keto_weight
+set label 4 sprintf( "%s", today_weight ) \
+	boxed left offset 1,0 \
+	at today_date, today_weight
 
 # -----------------------------------------------------------------------------
 # WoE rects (from left to right)
@@ -113,7 +169,7 @@ set arrow nohead linewidth 2 linecolor rgb "black" \
 
 #set obj 17 rect fc rgb "#93b1a7" \
 #	from graph 0, graph 1 to "03/05/2012", graph 0
-set label 96 at start_hack, graph 0.97 offset 0.5,0 \
+set label 96 at start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color \
 	"CICO"
 

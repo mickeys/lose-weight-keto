@@ -1,6 +1,12 @@
 # Simple, Sane, and Simple Keto
 
-This my explanation of how I lost 50 pounds on [keto](https://en.m.wikipedia.org/wiki/Ketogenic_diet). I did this, quickly, without _needing_ to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
+<center>
+_Do, or do not, there is no 'try'._ -- Yoda
+
+_If something's important to you you'll find a way.<br>If it isn't you'll find an excuse._ -- Ryan Blair
+</center>
+
+This my narrative of how I lost 50 pounds on [keto](https://en.m.wikipedia.org/wiki/Ketogenic_diet). I did this, quickly, without _needing_ to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
 ![my weight](./i/my_weight.svg)
 
@@ -34,7 +40,7 @@ The irony is that low-carb high-fat (LCFH) diets were anecdotally known to docto
 When I travelled to Scotland I was surprised that Dr. Atkins is pretty unknown; LCHF eating is known as "Banting".
 <br clear="left">
 
-Look at the population around you; we're <a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity">fatter than we've ever been</a>, to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
+Look at the population around you; we're [fatter than we've ever been](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
 <center>
 <table>
 	<tr>
@@ -46,12 +52,12 @@ Look at the population around you; we're <a href="https://www.niddk.nih.gov/heal
 
 Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012). Or read a <a href="http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise">good article for layman</a>.
 
-You'll have to let go of all the folk wisdom family and friends have been broadcasting as the truth since you were a baby. It's all wrong. We now have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional science</a>, we **know** what our bodies need to not be pudgy.
+You'll have to let go of **all** the folk wisdom family and friends have been broadcasting to you as truth since you were a baby. It's all wrong. We now have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional science</a>, we **know** what our bodies need to not be pudgy.
 
 ## How Do I Get Thin, In Detail
 
 <a href="https://www.flickr.com/photos/south-african-tourism/6252672423"><img src="./i/bushman_northern_cape_africa.jpg" width="50%" border="1" hspace="5" align="right"></a>
-Evolutionarily speaking, you're a bushman with a smartphone. Your body is optimized to efficiently live from stored fat. Over at least the last 100,000 years your <a href="https://www.sciencedaily.com/releases/2017/06/170607133246.htm">engine expects a diet</a> of mostly meat, some foraged veggies, and very intermittent delicious treats of berries, honey, etc. Mostly fat and protein.
+Evolutionarily speaking, you're a bushman with a smartphone. Your body is optimized to efficiently live from stored fat. Over at least the last 100,000 years your [engine expects a diet](https://www.sciencedaily.com/releases/2017/06/170607133246.htm) of mostly meat, some foraged veggies, and very intermittent delicious treats of berries, honey, etc. Mostly fat and protein.
 
 When sweet treats (sugars) are eaten a metabolic toggle is flipped so we get energy from the delights and STORE THE EXTRA AS BODY FAT; who knows when the tribe will next encounter such wonderful things?
 
@@ -69,12 +75,40 @@ If you're reading this, interested in weight loss, you may not be thrilled with 
 
 I didn't and I regret it; I was sporting quite the paunch. I was not happy with the mirror. The closest that I have are the photos you see here.
 
-Remember that everyone's progress is different, starting with gender and finishing with calorie deficit, adherence to the "macros" (macronutrient numbers), and cheat days (which you won't have).
+Your progress will be different than mine. Many factors influence weight loss, including those you have no control over - gender and genetics - and those you do - daily calorie deficit, macronutrients eaten, and cheat days (which you won't have).
 <br clear="left">
 
 #### Figure Out Your Ideal Weight
 
 It's good to know what modern medicine thinks is your <a href="https://www.calculator.net/ideal-weight-calculator.html">ideal weight</a>. It may not be _your_ target, but it's _a_ target. Aim at whatever weight you desire, but get an outside unbiased opinion.
+
+#### Calculate Your Macronutrient Requirements (macros)
+
+Eating healthfully on keto requires that you know your daily requirements for the important micronutriets -- protein, fat, and carbohydrates. This [keto macro calculator](https://keto-calculator.ankerl.com/) will output something like
+
+```
+54/M/6'0" | CW 187.4 | 21% BF | Mostly sedentary
+
+* 1429 kcal Goal, a 25% deficit. (812 min, 1905 max)
+* 10g Carbohydrates
+* 119g Protein (89g min, 148g max)
+* 101g Fat (33g min, 154g max)
+```
+
+`Sedentary` refers to my lack of exercise in the weight-loss phase. The only life variable I'm changing these months is what I eat. How I can judge the efficacy of keto if I also jumped onto a power-lifting regimen, morning runs, cold shower therapy, etc.? 
+
+Your body constantly burns energy, even when fast asleep. The calories in the food you eat must be less than your body uses, so your body fat is used to provide the difference. `Deficit` is that difference.
+
+All successful weight-loss plans must must have this deficit, shortened to "CICO" (calories in < calories out). Also, the _kind_ of calories you eat determine your hormonal response to food, which determines whether your body will store or release fat.
+
+
+ In the 1950s, two researchers-Professor Alan Kekwick and Dr. Gaston L.S. Pawan - jointly conducted a study to test the theory that differing proportions of carbs, fat and protein might have different effects on weight loss, even if the calories were kept the same.
+
+They put obese subjects on a 1,000-calorie diet but varied the percentages of protein, carbs and fats. Some subjects were on 90 percent protein, some were on 90 percent fat, and some were on 90 percent carbs. The subjects on the 90 percent protein diet lost .6 pounds per day; the ones on the 90 percent fat diet lost .9 pounds per day and the ones on 90 percent carbs actually gained a bit. 
+
+
+
+Back to macros: the above example shows that I have a daily calorie budget of 1429, which is me 
 
 #### Know The Quantities You're Eating
 
@@ -94,9 +128,9 @@ I can't stress this enough. If I had "bad" foods within reach I was certain to e
 
 During the weight-loss phase buy nothing that shows more than a carb; they sneakily add up.
 
-Hide lower-fat and fat-free options; because fat is your body's preferred fuel and because to remove fat they've resorted to adding a cornucopia of unpalettable ingredients, like guar gum. Whole, unadulterated foods are better for you.
+Hide lower-fat and fat-free options; because (1) fat is your body's preferred fuel and (2) food makers must replace the fat with things that don't belong inside you, like guar gum.
 
-Be mindful of calories. You'll have to eat less calories than a certain level (that you'll calculate shortly). Although calories are important, the _kind_ of calories you eat determine your hormonal response to food, which in turn determines whether your body will store or release fat. 
+Be mindful of calorie count.
 <br clear="left">
 
 #### Weigh And Log All Foods BEFORE you cook / eat them
@@ -123,7 +157,9 @@ A bit of encourage  ment before we actually start. You already have a six-pack, 
 
 ### If you're tired of starting over, don't give up!
 
-Cheat days? Sabotage meals? None during your limited weight-loss phase. You'll figure it out when you're in maintenance phase. ("If something is important to you you'll find a way. If it is not you'll find an excuse.")
+Cheat days? Sabotage meals? None during your limited weight-loss phase. You'll figure it out when you're in maintenance phase.
+
+Whilst on the topic of self-sabotage: alcohol. Due to your body's _oxidative priority_, the order in which foods are used for fuel, alcohols are always at the front of the line, so much of the food eaten at the same tima are stored as fat. That, along with the high carb content of many beers & liquors, is a double whammy.
 
 ## How Does Keto Work?
 
