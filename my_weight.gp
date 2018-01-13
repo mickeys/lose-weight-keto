@@ -44,14 +44,14 @@ stop_secs=system( stop_secs_cmd )
 keto_days=((start_secs - stop_secs) / ( 60 * 60 * 24 ) )
 
 loss_lbs=( keto_weight - today_weight )
-lbs_to_kg=0.45
-keto_loss_phase_str=sprintf("%s (%d days)\n%s start - %s lbs (%.2f kg)\n%s today - %s lbs (%.2f kg)\nweight lost = %.2f lbs (%.2f kg)\naverage loss/day = %.2f lbs (%.2f kg)", \
+ lb_to_kg=0.45
+keto_loss_phase_str=sprintf("%s (%d days)\n%s start - %s lb (%.2f kg)\n%s today - %s lb (%.2f kg)\nlost = %.2f lb (%.2f kg)\naverage loss/day = %.2f lb (%.2f kg)", \
 	"Keto weight-loss phase", keto_days, \
-	start_date, start_weight, ( start_weight * lbs_to_kg ), \
-	today_date, today_weight, ( today_weight * lbs_to_kg ), \
-	loss_lbs, ( loss_lbs * lbs_to_kg ), \
+	start_date, start_weight, ( start_weight * lb_to_kg ), \
+	today_date, today_weight, ( today_weight * lb_to_kg ), \
+	loss_lbs, ( loss_lbs * lb_to_kg ), \
 	( loss_lbs / keto_days), \
-	( ( loss_lbs * lbs_to_kg ) / keto_days) \
+	( ( loss_lbs * lb_to_kg ) / keto_days) \
 	)
 print keto_loss_phase_str
 
@@ -88,7 +88,7 @@ title_color="#a9a9a9"
 # -----------------------------------------------------------------------------
 set title textcolor rgb title_color
 set title 'My Weight and WOEs (Ways of Eating) over time' \
-	font ',12' offset 0,0	,0 \
+	font ',11' offset 0,0 \
 	textcolor rgb title_color
 #set xlabel 'Time' font ',9' offset 0,0.2,0
 set ylabel 'Weight (pounds)' font ',10' offset 2,0,0 \
@@ -98,13 +98,13 @@ set y2label 'Weight (kilograms)' \
 	textcolor rgb title_color
 
 # axes labels
-set tics font ', 9' textcolor rgb 'red' nomirror scale 0
+set tics font ', 8' textcolor rgb 'red' nomirror scale 0
 set ytics rotate by 45 right
 
 # y2 axis now shows kilograms
 #set ytics nomirror
 set y2tics rotate by -45 right offset 1,0
-set link y2 via y*lbs_to_kg inverse y/lbs_to_kg			# kilograms!
+set link y2 via y* lb_to_kg inverse y/ lb_to_kg			# kilograms!
 
 # x2 axis now shows my age
 ##set link x2 via str2num(strftime(timefmt,$1))-1963 inverse x*1
@@ -128,13 +128,13 @@ unset key
 # -----------------------------------------------------------------------------
 # ideal body weight
 # -----------------------------------------------------------------------------
-ideal_color='black'
-set label 95 at start_date,"171.1" offset 1,lbs_to_kg \
-	textcolor rgb ideal_color \
-	"Ideal Body Weight - 171 lbs 77 kg"
+ideal_color='#006400' # darkgreen
+set label 95 at start_date,"171.1" offset 1, lb_to_kg \
+	front font ',9' textcolor rgb ideal_color \
+	"Ideal Body Weight - 171 lb (77 kg)"
 
 # I hate hard-coding, but using graph 0, "171.1" fails somehow...
-set arrow nohead linewidth 1 linecolor rgb ideal_color \
+set arrow nohead front linewidth 1 linecolor rgb ideal_color \
 	from start_date, "171.1" to today_date, "171.1"
 
 # -----------------------------------------------------------------------------
@@ -155,8 +155,8 @@ set label 999 font ',9' textcolor rgb "red" \
 #set label 2 sprintf( "%s", keto_loss_phase_str ) \
 #	at low_carb_start, graph 0.97 offset 1,-3 \
 #	font ',9' textcolor rgb "red"
-set arrow nohead linewidth 2 linecolor rgb "black" \
-	from graph 0.8, graph 0.17 to "12/23/2017","196.4"
+set arrow nohead front linewidth 1 linecolor rgb "black" \
+	from graph 0.8, graph 0.17 to "12/16/2017","196.3"
 
 set label 3 sprintf( "%s", keto_weight ) \
 	boxed left offset 1,0 font ',8' \
@@ -185,7 +185,7 @@ set arrow nohead linewidth 1 linecolor rgb title_color \
 set label 97 at low_carb_start, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' \
 	"Lazy carb and many foreign trips"
-set arrow nohead linewidth 1 linecolor rgb title_color \
+set arrow nohead front linewidth 1 linecolor rgb title_color \
 	from low_carb_start, graph 1.0 to low_carb_start, "174.0"
 
 #set obj 20 rect fc rgb "#dbfeb8" \
@@ -193,7 +193,7 @@ set arrow nohead linewidth 1 linecolor rgb title_color \
 set label 99 at keto_start, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' \
 	"Keto"
-set arrow nohead linewidth 1 linecolor rgb title_color \
+set arrow nohead front linewidth 1 linecolor rgb title_color \
 	from keto_start, graph 1.0 to keto_start, "220.0"
 
 # -----------------------------------------------------------------------------
@@ -210,5 +210,5 @@ plot \
 	file using 1:2:(0.33) with points \
 		pointtype 7 lc rgb "red" ps variable, \
 	'i/20100704_mickey_by_espressobuzz-cropped.jpg' \
-		binary filetype=jpg center=(201,201) \
-		format='%uchar' with rgbimage notitle
+		binary filetype=jpg center=(668,412) \
+		 with rgbimage notitle
