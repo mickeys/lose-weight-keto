@@ -61,6 +61,8 @@ timefmt='%m/%d/%Y'
 set timefmt timefmt						# incoming as "12/10/2017"
 set key autotitle columnhead			# consume first line
 woe_color="black"
+cico_start="11/27/2009"
+cico_weight="237.0"
 atkins_start="3/5/2012"
 low_carb_start="2/17/2014"
 keto_start="10/30/2017"
@@ -171,6 +173,10 @@ set label 4 sprintf( "%s", today_weight ) \
 #set style rect fc lt -1 fillstyle transparent solid 0.5 noborder transparent
 #set obj 17 rect fc rgb "#93b1a7" \
 #	from graph 0, graph 1 to "03/05/2012", graph 0
+
+set arrow nohead linewidth 1 linecolor rgb title_color \
+	from cico_start, graph 1.0 to cico_start, "237.0"
+
 set label 96 at start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' "CICO"
 #	from atkins_start, graph 1.1 to low_carb_start, graph 0

@@ -1,14 +1,26 @@
 # Simple, Sane, and Simple Keto
 
 <center>
-_Do, or do not, there is no 'try'._ -- Yoda
+	<table>
+		<tr><td><strong>_Do, or do not, there is no 'try'._ -- Yoda</strong></td></tr>
+	</table>
+</center>
 
-_If something's important to you you'll find a way.<br>If it isn't you'll find an excuse._ -- Ryan Blair
+<center>
+	<table>
+		<tr><td><strong>_If something's important to you you'll find a way.<br>If it isn't you'll find an excuse._ -- Ryan Blair</strong></td></tr>
+	</table>
+</center>
+
+<center>
+	<table>
+		<tr><td><strong>_Just Do It_ -- Nike</strong></td></tr>
+	</table>
 </center>
 
 This my narrative of how I lost 50 pounds on [keto](https://en.m.wikipedia.org/wiki/Ketogenic_diet). I did this, quickly, without _needing_ to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
-![my weight](./i/my_weight.svg)
+![my weight](./i/my_weight.png)
 
 <u>Obligatory liability warning</u>: This is merely **my** anecdotal experience. Consult your doctor before adopting any diet or exercise regimen. Nothing here should be construed as medical advice.
 
@@ -71,7 +83,7 @@ Of course we're fat! We're eating the wrong fuel and storing the energy as body 
 
 If you're reading this, interested in weight loss, you may not be thrilled with your body right now.
 
-<img src="./i/20100704_mickey_by_espressobuzz-cropped.jpg" border="1" align="left" hspace="5"><img src="./i/20180111.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
+<img src="./i/20100704_mickey_by_espressobuzz-cropped.jpg" border="1" align="left" hspace="5"><img src="./i/20180113_186_2.jpg" border="1" align="right" hspace="5">Trust me, take 'before' pictures; they'll be an reward a few months down the road.
 
 I didn't and I regret it; I was sporting quite the paunch. I was not happy with the mirror. The closest that I have are the photos you see here.
 
@@ -159,7 +171,7 @@ A bit of encourage  ment before we actually start. You already have a six-pack, 
 
 Cheat days? Sabotage meals? None during your limited weight-loss phase. You'll figure it out when you're in maintenance phase.
 
-Whilst on the topic of self-sabotage: alcohol. Due to your body's _oxidative priority_, the order in which foods are used for fuel, alcohols are always at the front of the line, so much of the food eaten at the same tima are stored as fat. That, along with the high carb content of many beers & liquors, is a double whammy.
+Whilst on the topic of self-sabotage: alcohol. Due to your body's _oxidative priority_, the order in which foods are used for fuel, alcohols are always at the front of the line, so much of the food eaten at the same time is stored as fat. That, along with the high carb content of many beers & liquors, is a double whammy.
 
 ## How Does Keto Work?
 
