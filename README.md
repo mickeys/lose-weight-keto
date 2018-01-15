@@ -47,9 +47,9 @@ My German grandmother repeatedly said "meat makes meat" (eating meat makes one f
 
 It's terrifying how wrong their food choices were; I spent at least two decades of my life being haunted by the joys of eating.
 
-The irony is that low-carb high-fat (LCFH) diets were anecdotally known to doctors between the 1820s and 1950s. The scientific examination began with Dr. William Harvey and his obese patient, William Banting, in 1862. His prescription was no starch and sugar, no beer or potatoes; only meat, fish, vegetables, and wine. His healthy eating book, _Letter on Corpulence_, was published a year later. 
+The irony is that low-carb high-fat (LCFH) diets were anecdotally known to doctors between the 1820s and 1950s. The scientific examination began with Dr. William Harvey and his obese patient, William Banting, in 1862. His prescription was no starch and sugar, no beer or potatoes; only meat, fish, vegetables, and wine. His healthy eating book, _Letter on Corpulence_, was published a year later. What we know as keto was developed in the 1920s at the Mayo Clinic for epilepsy patients. 
 
-When I travelled to Scotland I was surprised that Dr. Atkins is pretty unknown; LCHF eating is known as "Banting".
+When I travelled to Scotland I was surprised that Dr. Atkins is pretty unknown; LCHF eating is known as "Banting". In South Africa it's known as "Noakes", after a contemporary doctor.
 <br clear="left">
 
 Look at the population around you; we're [fatter than we've ever been](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), to the point of using up a major part of our national wealth on medical care for the fat: from juvenile diabetes to all the dire consequences of adult obesity.
@@ -64,7 +64,7 @@ Look at the population around you; we're [fatter than we've ever been](https://w
 
 Delve into the scientific literature if you want, or watch the best documentary that I've found thus far, [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/) (2012). Or read a <a href="http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise">good article for layman</a>.
 
-You'll have to let go of **all** the folk wisdom family and friends have been broadcasting to you as truth since you were a baby. It's all wrong. We now have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional science</a>, we **know** what our bodies need to not be pudgy.
+You'll have to let go of **all** the folk wisdom family and friends have been broadcasting to you as truth since you were a baby. It's all wrong. We now have <a href="http://sci-fit.net/2017/keto-study-collection/">lots</a> of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/">nutritional</a> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716748/">science</a>, we **know** what our bodies need to not be pudgy.
 
 ## How Do I Get Thin, In Detail
 

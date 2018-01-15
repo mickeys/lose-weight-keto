@@ -1,3 +1,5 @@
+# https://imgur.com/a/PUHHq
+#
 set datafile separator ","				# needed to process CSV files
 file='loseit.csv'						# our input comes from here
 # -----------------------------------------------------------------------------
@@ -33,6 +35,8 @@ keto_loss_start_weight='220.0'
 atkins_loss_start_date='03/05/2012'
 atkins_loss_start_weight='235.2'
 
+ideal_body_weight='171.1'
+
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # keto loss rate
@@ -45,13 +49,28 @@ stop_secs_cmd=sprintf( "%s -d %s %s", \
 stop_secs=system( stop_secs_cmd )
 keto_days=((start_secs - stop_secs) / ( 60 * 60 * 24 ) )
 
+loss_pct=(( keto_loss_start_weight - today_weight ) / ( keto_loss_start_weight - ideal_body_weight ))
+
+
+print sprintf( "%s\n", keto_loss_start_weight )
+print sprintf( "%s\n", today_weight )
+print sprintf( "%s\n", keto_loss_start_weight )
+print sprintf( "%s\n", ideal_body_weight )
+
+
+#foo=sprintf( "loss is %s - %s / %s - %s == %s \n", \
+#	keto_loss_start_weight, today_weight, keto_loss_start_weight, ideal_body_weight, \
+#	loss_pct )
+#print foo
+
 loss_lbs=( keto_loss_start_weight - today_weight )
  lb_to_kg=0.45
-keto_loss_phase_str=sprintf("%s (%d days)\n%s start - %s lb (%.2f kg)\n%s today - %s lb (%.2f kg)\nlost = %.2f lb (%.2f kg)\naverage loss/day = %.2f lb (%.2f kg)", \
+keto_loss_phase_str=sprintf("%s (%d days)\n%s start - %s lb (%.2f kg)\n%s today - %s lb (%.2f kg)\nlost = %.2f lb (%.2f kg) %d %%\naverage loss/day = %.2f lb (%.2f kg)", \
 	"Keto weight-loss phase", keto_days, \
 	program_start_date, program_start_weight, ( program_start_weight * lb_to_kg ), \
 	today_date, today_weight, ( today_weight * lb_to_kg ), \
 	loss_lbs, ( loss_lbs * lb_to_kg ), \
+	(( keto_loss_start_weight - today_weight ) / ( keto_loss_start_weight - ideal_body_weight )), \
 	( loss_lbs / keto_days), \
 	( ( loss_lbs * lb_to_kg ) / keto_days) \
 	)
@@ -130,6 +149,8 @@ unset key
 
 # -----------------------------------------------------------------------------
 # ideal body weight
+#
+# fix this to use the ideal_body_weight variable, set above
 # -----------------------------------------------------------------------------
 ideal_color='#006400' # darkgreen
 set label 95 at program_start_date,"171.1" offset 1, lb_to_kg \
@@ -198,7 +219,6 @@ set arrow nohead linewidth 1 linecolor rgb title_color \
 
 set label 96 at program_start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' "CICO"
-#	from atkins_start, graph 1.1 to low_carb_start, graph 0
 set label 98 at atkins_start, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' "Atkins"
 
