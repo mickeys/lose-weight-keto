@@ -93,28 +93,6 @@ These are some of the things I ate during my keto loss phase. When I get picture
 | <img src="i/food/shirataki_spam_fried_rice.jpg"> | <b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce. |
 | <img src="i/food/broccolini_rabe_italian_sausage.jpg"> | <b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else! |
 
- XXXXXXXXXX
-
-<table border="0">
-
-	<tr><td><img src="i/food/egg_in_butter.jpg"></td><td><b>fried egg in butter</b><br>The simpliest. If I pair it with salami or bacon I cook the meat first and the egg in the fat in the pan.</td></tr>
-
-	<tr><td><img src="i/food/3_egg_spam_omelette.jpg"></td><td><b>omelette</b><br>A 3-egg omelette with 2 oz SPAM and a touch of scallion.</td></tr>
-
-	<tr><td><img src="i/food/3_oz_onion_cheeseburger.jpg"></td><td><b>cheddar burger & onion</b><br>3 oz 80% ground beef, 0.5 oz sharp cheddar, the tinest amount of onions. Some days I have several of these over my eating window.</td></tr>
-
-	<tr><td><img src="i/food/blue_cheese_burger.jpg"></td><td><b>blue cheese burger</b><br>Same as above, but with crumbled blue cheese.</td></tr>
-
-	<tr><td><img src="i/food/pork_chop_plain_shirataki.jpg"></td><td><b>pork chop & "rice"</b></br>6 oz pork chop, shiritaki (Miracle Noodle) "rice" with Montreal steak spice.</td></tr>
-
-	<tr><td><img src="i/food/shirataki_paella_himilayian_shrimp.jpg"></td><td><b>Poor man's paella</b><br>Shiritaki (Miracle Noodle) "rice" with a bit of Trader Joe's soy chorizo.</td></tr>
-
-	<tr><td><img src="i/food/shirataki_spam_fried_rice.jpg"></td><td><b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce.</td></tr>
-
-	<tr><td><img src="i/food/broccolini_rabe_italian_sausage.jpg"></td><td><b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else!</td></tr>
-
-</table>
-
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
 
 ### Immerse yourself in community
