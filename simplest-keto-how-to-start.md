@@ -84,15 +84,15 @@ These are some of the things I ate during my keto loss phase. When I get picture
 
 |   |   |
 |---|---|
-| <img src="i/food/egg_in_butter.jpg"> | <b>fried egg in butter</b><br>The simpliest. If I pair it with salami or bacon I cook the meat first and the egg in the fat in the pan. |
-| <img src="i/food/3_egg_spam_omelette.jpg"> | <b>omelette</b><br>A 3-egg omelette with 2 oz SPAM and a touch of scallion. |
-| <img src="i/food/3_oz_onion_cheeseburger.jpg"> | <b>cheddar burger & onion</b><br>3 oz 80% ground beef, 0.5 oz sharp cheddar, the tinest amount of onions. Some days I have several of these over my eating window. |
-| <img src="i/food/blue_cheese_burger.jpg"> | <b>blue cheese burger</b><br>Same as above, but with crumbled blue cheese. |
-| <img src="i/food/pork_chop_plain_shirataki.jpg"> | <b>pork chop & "rice"</b></br>6 oz pork chop, shiritaki (Miracle Noodle) "rice" with Montreal steak spice. |
-| <img src="i/food/shirataki_paella_himilayian_shrimp.jpg"> | <b>Poor man's paella</b><br>Shiritaki (Miracle Noodle) "rice" with a bit of Trader Joe's soy chorizo. |
-| <img src="i/food/shirataki_spam_fried_rice.jpg"> | <b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce. |
-| <img src="i/food/tuna_mayo_pickles.jpg"> | <b>tuna</b><br>One can of tuna, 2 tbsp mayo, 1 pickle cubed. |
-| <img src="i/food/broccolini_rabe_italian_sausage.jpg"> | <b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else! |
+| <img src="i/food/egg_in_butter.jpg" border="1"> | <b>fried egg in butter</b><br>The simpliest. If I pair it with salami or bacon I cook the meat first and the egg in the fat in the pan. |
+| <img src="i/food/3_egg_spam_omelette.jpg" border="1"> | <b>omelette</b><br>A 3-egg omelette with 2 oz SPAM and a touch of scallion. |
+| <img src="i/food/3_oz_onion_cheeseburger.jpg" border="1"> | <b>cheddar burger & onion</b><br>3 oz 80% ground beef, 0.5 oz sharp cheddar, the tinest amount of onions. Some days I have several of these over my eating window. |
+| <img src="i/food/blue_cheese_burger.jpg" border="1"> | <b>blue cheese burger</b><br>Same as above, but with crumbled blue cheese. |
+| <img src="i/food/pork_chop_plain_shirataki.jpg" border="1"> | <b>pork chop & "rice"</b></br>6 oz pork chop, shiritaki (Miracle Noodle) "rice" with Montreal steak spice. |
+| <img src="i/food/shirataki_paella_himilayian_shrimp.jpg" border="1"> | <b>Poor man's paella</b><br>Shiritaki (Miracle Noodle) "rice" with a bit of Trader Joe's soy chorizo. |
+| <img src="i/food/shirataki_spam_fried_rice.jpg" border="1"> | <b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce. |
+| <img src="i/food/tuna_mayo_pickles.jpg" border="1"> | <b>tuna</b><br>One can of tuna, 2 tbsp mayo, 1 pickle cubed. |
+| <img src="i/food/broccolini_rabe_italian_sausage.jpg" border="1"> | <b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else! |
 
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
 
