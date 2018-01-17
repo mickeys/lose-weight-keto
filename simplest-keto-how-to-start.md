@@ -91,6 +91,7 @@ These are some of the things I ate during my keto loss phase. When I get picture
 | <img src="i/food/pork_chop_plain_shirataki.jpg"> | <b>pork chop & "rice"</b></br>6 oz pork chop, shiritaki (Miracle Noodle) "rice" with Montreal steak spice. |
 | <img src="i/food/shirataki_paella_himilayian_shrimp.jpg"> | <b>Poor man's paella</b><br>Shiritaki (Miracle Noodle) "rice" with a bit of Trader Joe's soy chorizo. |
 | <img src="i/food/shirataki_spam_fried_rice.jpg"> | <b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce. |
+| <img src="i/food/tuna_mayo_pickles.jpg"> | <b>tuna</b><br>One can of tuna, 2 tbsp mayo, 1 pickle cubed. |
 | <img src="i/food/broccolini_rabe_italian_sausage.jpg"> | <b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else! |
 
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
