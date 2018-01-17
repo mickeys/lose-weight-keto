@@ -98,6 +98,7 @@ These are some of the things I ate during my keto loss phase. When I get picture
 	<tr><td><img src="i/food/shirataki_spam_fried_rice.jpg" border="1"></td><td><b>Hawaiian breakfast</b><br>2 oz SPAM, Shiritaki (Miracle Noodle) "rice", a touch of scallions & soy sauce.</td></tr>
 
 	<tr><td><img src="i/food/broccolini_rabe_italian_sausage.jpg" border="1"></td><td><b>broccolini and Italian sausage</b><br>A notable restaurant meal. I confirmed only butter and salt, nothing else!</td></tr>
+
 </table>
 
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
