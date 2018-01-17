@@ -83,7 +83,7 @@ Gauge your hunger. When you feel "hungry" take a moment to see whether it's a ne
 These are some of the things I ate during my keto loss phase. When I get pictures of others I'll update this page.
 
 <table border="0">
-	<tr><td><img src="i/food/egg_in_butter.jpg" border="1"></td><td><b>fried egg in butter</b><br>The simpliest. If I pair it with salami or bacon I cook the meat first and the egg in the fat in the pan.</b></td></tr>
+	<tr><td><img src="i/food/egg_in_butter.jpg" border="1"></td><td><b>fried egg in butter</b><br>The simpliest. If I pair it with salami or bacon I cook the meat first and the egg in the fat in the pan.</td></tr>
 
 	<tr><td><img src="i/food/3_egg_spam_omelette.jpg" border="1"></td><td><b>omelette</b><br>A 3-egg omelette with 2 oz SPAM and a touch of scallion.</td></tr>
 
