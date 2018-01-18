@@ -1,6 +1,6 @@
 # SimplestKeto<sup>TM</sup>
 
-<center><font size="-1">version 1.0.1</font></center>
+<center><font size="-1">version 1.0.2</font></center>
 
 Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss, and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
@@ -132,6 +132,8 @@ Does this limited menu get boring? Of course! Each time I reach into the fridge 
 
 My version of dead simple isn't the same as others, although I picked it because it lets me  skate close to no-carb during the loss phase. A reviewer shares their method: _Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake._ With this method you must be doubly sure to keep an eye on creeping daily carb count.
 
+From another reviewer comes this version of basic keto: _...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed..._
+
 Another note about vegetables: I've been asked why vegetables don't feature more prominently (or at all) in my weight-loss keto implementation.
 
 1. We've all been raised with the "truth" that fats are bad, fruits and veggies and salads are good, and low-fat substitutes are the key to healthy living. Fats are your optimal fuel. Fruts are sugar bags. Some veggies are carb bombs. To build self-assurance about keto, to demonstrate by actual weight loss, confidence is built from a demonstration diet free of those purportedly healthy foods, butressing newcomers confidence before that early window of time in which most quit any new diet and revert to unhealthy eating. Carbs from veggies just complicate building this confidence. (I do believe some vegetables should be adding during the keto maintenance phase.)
@@ -158,9 +160,31 @@ My success on keto is due to :
 
 1. a gentleness with myself, to get through the mental break at not eating every few hours, just sitting with any late-night hunger rather than running to the kitchen cabinet or refridgerator
 
-### Immerse yourself in community
+### Get educated
+
+#### Immerse yourself in community
 
 While you're keto'ing use online communities to get more information about keto, keto-friendly recipes, and support for the struggle. I recommend [Reddit](http://reddit.com/r/keto).
+
+#### Watch videos
+
+* [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/), 2012.
+
+#### Read scholarly articles
+
+• Experimental & Clinical Cardiology, _[Long-term effects of a ketogenic diet in obese patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716748/)_, 2004.
+
+• Paoli, Antonio, M.D. -- International Journal of Environmental Research and Public Health, _[Ketogenic Diet for Obesity: Friend or Foe?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/)_, 2014.
+
+• Beres, Derek -- [How the Keto Diet—Even Without Exercise—Slays the Opposition](http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise), 2017.
+
+• Attia, Peter, M.D. - [Ketosis – advantaged or misunderstood state? (Part I) ](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-i/), 2012.
+
+• Attia, Peter, M.D. - [Ketosis – advantaged or misunderstood state? (Part II)](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-ii/), 2013.
+
+• Attia, Peter, M.D. - [How to make a fat cell less not thin: the lessons of fat flux](https://peterattiamd.com/how-to-make-a-fat-cell-less-not-thin-the-lessons-of-fat-flux/), 2013.
+
+• Tsur, Adam -- SCI-FIT, [A Collection of 200+ Keto and Carbohydrate Studies](http://sci-fit.net/2017/keto-study-collection/)
 
 ### That's it! Just do it!
 
