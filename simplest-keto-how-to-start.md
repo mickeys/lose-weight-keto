@@ -1,6 +1,8 @@
 # SimplestKeto<sup>TM</sup>
 
-<center><font size="-1">version 1.0.2</font></center>
+version 1.0.2
+
+## keto, done as simply as possible
 
 Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss, and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
