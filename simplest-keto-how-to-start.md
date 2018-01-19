@@ -168,7 +168,7 @@ My success on keto is due to :
 
 ### Sleep
 
-According to Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to keytone levels and weight loss. Do what you need to get good chunks of good sleep.
+According to Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to keytone levels and weight loss. Do what you need to get good chunks of good sleep.
 
 ### Stalls & plateaus
 
