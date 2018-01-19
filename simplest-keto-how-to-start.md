@@ -1,6 +1,6 @@
 # SimplestKeto<sup>TM</sup>
 
-version 1.0.4 -- Added TOC
+version 1.0.5 -- Spellcheck!
 
 ## Table of Contents
 <font size="-1">
@@ -10,20 +10,20 @@ version 1.0.4 -- Added TOC
 1. [What is keto?](#what_is_keto)
 1. [What must you bring to this?](#what_you_provide)
 1. [Enough already! Let's start!](#start)
-	* [Mindset](#mindset)
-	* [Shopping](#shopping)
-	* [Electrolytes before you start](#electrolypes)
-	* [Weigh and log before you eat](#weigh_and_log)
-	* [Keto lore](#lore)
-	* [Start cooking and eating](#cooking_and_eating)
-	* [Work on your relationship with food](#food_relationship_)
-	* [Sleep](#sleep)
-	* [Stalls & plateaus](#stalls)
-	* [Get educated](#education)
-		- [Immerse yourself in community](#community)
-		- [Watch videos](#watch)
-		- [Listen to podcasts](#listen)
-		- [Read scholarly articles](#read)
+    * [Mindset](#mindset)
+    * [Shopping](#shopping)
+    * [Electrolytes before you start](#electrolypes)
+    * [Weigh and log before you eat](#weigh_and_log)
+    * [Keto lore](#lore)
+    * [Start cooking and eating](#cooking_and_eating)
+    * [Work on your relationship with food](#food_relationship_)
+    * [Sleep](#sleep)
+    * [Stalls & plateaus](#stalls)
+    * [Get educated](#education)
+        - [Immerse yourself in community](#community)
+        - [Watch videos](#watch)
+        - [Listen to podcasts](#listen)
+        - [Read scholarly articles](#read)
 1. [That's it! Just do it!](#conclusion)
 
 </font>
@@ -31,12 +31,12 @@ version 1.0.4 -- Added TOC
 <a name="introduction"></a>
 ## keto, done as simply as possible
 
-Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss, and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
+Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
 <a name="who_am_i"></a>
 ## Who am I?
 
-I'm you. My day is spent in an office. I'm not thrilled by, nor do I have time for, sweaty daily exercise. Food; I love everything about it: cooking, eating, researching exotic recipes. Without counting calories I ate what I wanted.
+I'm you. My day is spent in an office. I'm not thrilled by, nor do I have time for, sweaty daily exercise. Food; I love everything about it: cooking, eating, researching exotic recipes. I ate what I wanted without counting calories.
 
 One day I woke up, rolled out of bed with a hurting back, made a grunty noise when I sat down, realized I couldn't see my toes, and was frustrated by how tired I was (and how many naps I craved or took). This weight had to come off!
 
@@ -85,7 +85,7 @@ Get into the mindset. Nothing must be more important than getting into shape. Mu
 <a name="shopping"></a>
 ### Shopping
 
-I claimed a kitchen cabinet and a refridgerator shelf. In the store I pored over nutritional labels, pretending to be zero-carb, knowing the tiniest bits of carbs will add up to the smallest possible total. I won't mention "low-carb" before each item, but you now know how to shop. (Don't look at fat content; fat will be your perfect fuel in the weeks to come.)
+I claimed a kitchen cabinet and a refrigerator shelf. In the store I pored over nutritional labels, pretending to be zero-carb, knowing the tiniest bits of carbs will add up to the smallest possible total. I won't mention "low-carb" before each item, but you now know how to shop. (Don't look at fat content; fat will be your perfect fuel in the weeks to come.)
 
 * unsalted butter
 * lite salt (for the potassium)
@@ -97,9 +97,9 @@ I claimed a kitchen cabinet and a refridgerator shelf. In the store I pored over
 * breakfast meats: low-carb salami, bacon
 * almonds, roasted, salted or plain
 * dinner meats:
-	* beef, ground beef
-	* pork, ground pork
-	* salmon filet
+    * beef, ground beef
+    * pork, ground pork
+    * salmon filet
 
 For right now no fruit, no vegetables, no snacks, nothing sweet, no dairy, no substitute items (soy milk), no low-fat foods.
 
@@ -108,17 +108,17 @@ I'm sure I've forgotten a few things; feel free to tweak this list to your likin
 <a name="electrolypes"></a>
 ### Electrolytes before you start
 
-A side-effect of nutritional keytosis is your body flushing out more water than usual, along with electrolytes; sodium, potassium, and magnesium. Behavioral side-effects include:
+A side-effect of nutritional ketosis is your body flushing out more water than usual, along with electrolytes; sodium, potassium, and magnesium. Behavioral side-effects include:
 
-* **keto flu** -- During the transition from using carbs as fuel to using your body fat you may experience a intense period of flu-like symptoms: aches, low energy.
+* **keto flu** -- During the transition from using carbs as fuel to using your body fat you may experience an intense period of flu-like symptoms: aches, low energy.
 
 * **keto rage** -- You may also be ill-tempered, have a short fuse, or experience the hangry without the hungry.
 
-Replenish these very important electrolytes most easily wih:
+Replenish these very important electrolytes most easily with:
 
 * **light salt** -- Most groceries contain salt substitutes that are either half or completely potassium chloride (with perhaps a trace of magnesium carbonate). Check the label to ensure no sugar, no carbs.
 
-* **magnesium supplement** -- Any store with supplements may have magnesium citrate, the cheapest, most bioavailable kind.
+* **magnesium supplement** -- Any store with supplements may have magnesium. Check ingredients for sugars (sugar, dextrose, etc). According to the pharmacist with whom I spoke, magnesium oxide is the most bioavailable, although many use magnesium citrate.
 
 Check labels and online for amounts to use, side-effects, and recipes for _ketoade_ (a drinkable way to replenish).
 
@@ -127,12 +127,12 @@ Check labels and online for amounts to use, side-effects, and recipes for _ketoa
 
 * By whatever method you chose, log your weight today.
 
-* Take 'before' pictures, even though you may not be thrilled with your shape today. You _will_ regret not having them later, trust me. Take one set with street clothes, another in underwear. Do not get rid of those clothes before you hit your target weight :-)
+* Take 'before' pictures, even though you may not be thrilled with your shape today. You _will_ regret not having them later, trust me. Take one set of street clothes, another in underwear. Do not get rid of those clothes before you hit your target weight :-)
 
 <a name="weigh_and_log"></a>
 ### Weigh and log before you eat
 
-With whatever diet / way of eating you choose, the key idea is that you _must_ eat less calories than you consume. This is called _deficit_. Walking and sports can add to this deficit, but if you're taking in more than you burn you will gain weight.
+With whatever diet / way of eating you choose, the key idea is that you _must_ eat fewer calories than you consume. This is called _deficit_. Walking and sports can add to this deficit, but if you're taking in more than you burn you will gain weight.
 
 Most humans are terrible at estimating quantities. Counter this by weighing and logging each ingredient (or prepared food) before it enters your mouth.
 
@@ -141,16 +141,16 @@ Most humans are terrible at estimating quantities. Counter this by weighing and 
 
 * **bulletproof coffee** - [Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil](https://www.nytimes.com/2014/12/14/style/the-cult-of-the-bulletproof-coffee-diet.html). It's _not_ essential for keto. You don't _need_ special coffee beans, butters, or MCT oils, although you may choose later on to try more expensive offerings. (In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.)
 
-* **bacon** - Through publicity, bacon is the the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.
+* **bacon** - Through publicity, bacon is the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.
 
-* **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs / day you're in ketosis.
+* **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis.
 
 <a name="cooking_and_eating"></a>
 ### Start cooking and eating
 
 Gauge your hunger. When you feel "hungry" take a moment to see whether it's a need for fuel or a need for comfort. Drink something; much of what we feel as hunger is actually thirst. Give yourself five minutes to sit with the hungry. Know you'll have moments of hungry; it's all good, you'll survive. Use sticky notes to remind yourself.
 
-Note: At some point it's worth experimenting with hard cheeses and broccoli, cauliflower, and spinach. I haven't yet, because this is my hard-core weight-loss phase, but I'll be adding them in as I transition to maintenance mode.
+Note: At some point it's worth experimenting with hard cheeses and broccoli, cauliflower, and spinach. I haven't yet because this is my hard-core weight-loss phase, but I'll be adding them in as I transition to maintenance mode.
 
 Note: Ensure you're hydrated, as you'll be flushing out water on keto. Enjoy everything low- or no-carb; water with a touch of lemon juice, tea, coffee. No alcohol during the loss phase. 
 
@@ -168,32 +168,32 @@ These are some of the things I ate during my keto loss phase. When I get picture
 | <img src="i/food/tuna_mayo_pickles.jpg" border="1"> | <b>tuna</b><br>One can of tuna, 2 tbsp mayo, 1 pickle cubed. |
 | <img src="i/food/broccolini_rabe_italian_sausage.jpg" border="1"> | <b>broccolini and Italian sausage</b><br>A notable [restaurant](http://pizzeriarosso109.com) meal. I confirmed only butter and salt, nothing else! |
 
-Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
+Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time and that I'm doing this for a goal that I really, really want.
 
-My version of dead simple isn't the same as others, although I picked it because it lets me  skate close to no-carb during the loss phase. A reviewer shares their method: Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake. (With this method you must be doubly sure to keep an eye on creeping daily carb count.)
+My version of dead simple isn't the same as others, although I picked it because it lets me skate close to no-carb during the loss phase. A reviewer shares their method: Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake. (With this method you must be doubly sure to keep an eye on creeping daily carb count.)
 
 From another reviewer comes this version of basic keto: ...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed...
 
 Yet another said: Boredom is another reason people give up diets. Eating only protein and fat, stuff with a lot of umami, flavor would make me hate food and life. It’s literally no issue to work broccoli, spinach, and zucchini into the diet and stay under the carb amount.
 
-Also "[for breakfasts] I'll do deli slices in bacon grease, sausages, breakfast sausage, and just cheese sticks; never fancy unless I do eggs. For eggs: whisk with coconut milk, heavy cream, or whole milk. Working on cream cheese and egg pancakes: 1oz cream cheese per large egg, blend and pour in greased or buttered pan, powder with Stevia."
+Also "[for breakfasts] I'll do deli slices in bacon grease, sausages, breakfast sausage, and just cheese sticks; never fancy unless I do eggs. For eggs: whisk in coconut milk, heavy cream, or whole milk. Working on cream cheese and egg pancakes: 1oz cream cheese per large egg, blend and pour into greased or buttered pan, powder with Stevia."
 
 Another note about vegetables: I've been asked why vegetables don't feature more prominently (or at all) in my weight-loss keto implementation.
 
-1. We've all been raised with the "truth" that fats are bad, fruits and veggies and salads are good, and low-fat substitutes are the key to healthy living. Fats are your optimal fuel. Fruts are sugar bags. Some veggies are carb bombs. To build self-assurance about keto, to demonstrate by actual weight loss, confidence is built from a demonstration diet free of those purportedly healthy foods, butressing newcomers confidence before that early window of time in which most quit any new diet and revert to unhealthy eating. Carbs from veggies just complicate building this confidence. (I do believe some vegetables should be adding during the keto maintenance phase.)
+1. We've all been raised with the "truth" that fats are bad, fruits and veggies and salads are good, and low-fat substitutes are the key to healthy living. Fats are your optimal fuel. Fruits are sugar bags. Some veggies are carb bombs. To build self-assurance about keto, to demonstrate by actual weight loss, confidence is built from a demonstration diet free of those purportedly healthy foods, buttressing newcomers confidence before that early window of time in which most quit any new diet and revert to unhealthy eating. Carbs from veggies just complicate building this confidence. (I do believe some vegetables should be adding during the keto maintenance phase.)
 
 1. To rid newcomers of the "I couldn't ever give up that food" mentality; it holds people back from jumping into keto completely. Fruits, vegetables, and salads are not an essential part of you taking control over your ever-heavier body; you can see it on your scale. 
 
 1. To inculcate the mind-numbing truth that it's possible to fuel your body during the weight-loss phase without fruits, veggies, or salads, and without hunger pangs, carb cravings, or ruinous bodily breakdown.
 
-1. The _need_ for fruits and vegetables isn't as clear-cut as our mothers would have us believe. While I've drawn no conclusions yet, my reading uncovers that meat is much more nutritionally dense than veggies, provide all needed nutrients (or precursors), and is more bioavailable than vegetables (to which some people have reactions). We were taught that lemons cured scury, but never that meat also does. Zero-carbers have been without veggies for an extended period of time without seeming issues. There are questions about the need for fiber. All of this requires more research and reading.
+1. The _need_ for fruits and vegetables isn't as clear-cut as our mothers would have us believe. While I've drawn no conclusions yet, my reading uncovers that meat is much more nutritionally dense than veggies, provide all needed nutrients (or precursors), and is more bioavailable than vegetables (to which some people have reactions). We were taught that lemons cured scurvy, but never that meat also does. Zero-carbers have been without veggies for an extended period of time without seeming issues. There are questions about the need for fiber. All of this requires more research and reading.
 
 <a name="food_relationship_"></a>
 ### Work on your relationship with food
 
-Most of use use food as comfort.
+Most of us food as comfort.
 
-The saw-tooth pattern you see in my graph, above, shows the effects of complacence (perhaps denial) and stress that comes with job loss, divorce, selling a house, and a handful of foreign trips (which had very notable, almost famous, high-carb foods that I just _had_ to have). Also easy to see are the key decision points during that stressful time; I got frustrated with my weight, got back on low-carb, got distracted, and the result was yo-yo dieting.
+The saw-tooth pattern you see in my graph, above, shows the effects of complacience (perhaps denial) and stress that comes with job loss, divorce, selling a house, and a handful of foreign trips (which had very notable, almost famous, high-carb foods that I just _had_ to have). Also easy to see are the key decision points during that stressful time; I got frustrated with my weight, got back on low-carb, got distracted, and the result was yo-yo dieting.
 
 My success on keto is due to :
 
@@ -201,21 +201,21 @@ My success on keto is due to :
 
 1. an obsessive habit of reminding myself why I'm doing this restrictive, minimalist eating during this weight-loss phase
 
-1. a burning commitment on winning each meal, not snacking in-between, and absolutely no self-sabotaging cheat until I hit my target weight
+1. a burning commitment to winning each meal, not snacking in-between, and absolutely no self-sabotaging cheat until I hit my target weight
 
 1. a gentleness with myself, to get through the mental break at not eating every few hours, just sitting with any late-night hunger rather than running to the kitchen cabinet or refrigerator
 
 <a name="sleep"></a>
 ### Sleep
 
-According to Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to keytone levels and weight loss. Do what you need to get good chunks of good sleep.
+According to Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to ketone levels and weight loss. Do what you need to get good chunks of good sleep.
 
 <a name="stalls"></a>
 ### Stalls & plateaus
 
 The term stall (or plateau) refers to successful weight loss that stops, despite continued keto. There are a good number of lay theories about this, as well as suggested ways to "break a stall".
 
-* go on an extended fast, removing calories
+* an extended fast, removing calories
 
 * eat less food, lowering calories
 
@@ -234,7 +234,7 @@ So my first attempt at breaking this stall is to continue on my keto, being mind
 <a name="education"></a>
 ### Get educated
 
-The following is a very imperfect and incomplete list of some of the resources I find helpfule.
+The following is a very imperfect and incomplete list of some of the resources I find helpful.
 
 <a name="community"></a>
 #### Immerse yourself in community
