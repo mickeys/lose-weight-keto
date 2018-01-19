@@ -1,6 +1,6 @@
 # SimplestKeto<sup>TM</sup>
 
-version 1.0.6 -- Ketoade recipe, slight reorg.
+version 1.0.7 -- Tweaks to community, stalls; added books.
 
 <a name="introduction"></a>
 ## keto, as simple as possible
@@ -31,7 +31,8 @@ Newcomers to keto are often frustrated by slow weight loss and confused by the f
         - [Immerse yourself in community](#community)
         - [Watch videos](#watch)
         - [Listen to podcasts](#listen)
-        - [Read scholarly articles](#read)
+        - [Read articles](#articles)
+        - [Read books](#books)
 1. [That's it! Just do it!](#conclusion)
 
 </font>
@@ -52,9 +53,9 @@ I stumbled onto keto in late 2017. I learned to watch both my calories and macro
 <a name="what_is_keto"></a>
 ## What is keto?
 
-Keto is a low-carb high-fat diet (LCHF) diet that switches your body into a fuel-burning state that consumes your body fat. Most of keto is counter-intuitive, flying against common folk wisdom that passes for "what everyone knows".
+Keto is a low-carb high-fat diet (LCHF) diet that switches your body into a fuel-burning state that consumes your body fat. Most of keto is counter-intuitive, flying against common folk wisdom that passes for what everyone "knows".
 
-There's a lot for you to read out there, to gain a scientific underpinning of how and why keto works, even though all of it sounds wrong. You don't need to know any of it to get started, but you'll have plenty of time as you see the weight falling off :-)
+There's a lot for you to read out there -- [sources below](#read) -- to gain a scientific underpinning of how and why keto works. You don't need to know any of it to get started, but you'll have plenty of time as you see the weight falling off :-)
 
 <a name="what_you_provide"></a>
 ## What must you bring to this?
@@ -67,11 +68,11 @@ There's a lot for you to read out there, to gain a scientific underpinning of ho
 
 * Calculate [appropriate calorie and macronutrient levels](https://keto-calculator.ankerl.com/) for who you are today.
 
-* A way of logging your daily food intake, to maintain awareness of your running calorie and macronutrient count. Both [LoseIt!](http://loseit.com/) and [MyFitnessPal](http://myfitnesspal.com/) have both web and smartphone apps.
+* A way of logging your daily food intake, to maintain awareness of your running calorie and macronutrient count. Both [LoseIt!](http://loseit.com/), [MyFitnessPal](http://myfitnesspal.com/), and [Chronometer](https://cronometer.com/) have both web and smartphone apps.
 
-* A digital body-weight scale. Weigh and log yourself each and every day at the same time, every morning.
+* A [digital body-weight scale](https://www.amazon.com/Etekcity-Digital-Bathroom-Measure-Tempered/dp/B01HI1W1V4/ref=sr_1_4?s=home-garden&ie=UTF8&qid=1516347677&sr=1-4&keywords=body+scale). Weigh and log yourself each and every day at the same time, every morning.
 
-* A digital food scale. You'll need to accurately log the weight of foods. Humans are terrible at estimating.
+* A [digital food scale](https://www.amazon.com/gp/product/B0775DBSZG?ie=UTF8&tag=mickeys-20&camp=1789&linkCode=xm2&creativeASIN=B0775DBSZG). You'll need to accurately log the weight of foods. Humans are terrible at estimating.
 
 * A doctor's visit to ensure that you're healthy enough. You needn't state that you're planning on doing keto, especially as many physicians last learned (inaccurate information) about nutrition in med school. Just be healthy enough.
 
@@ -83,21 +84,23 @@ Great that you're impatient. Here's what worked for me:
 <a name="mindset"></a>
 ### Mindset
 
-Get into the mindset. Nothing must be more important than getting into shape. Much as I wanted tantalizing keto-friendly foods, cheat days for non-keto foods, I vowed to eat only simple keto meals to make it easy to stick with it.
+Get into the mindset. Nothing must be more important than getting into shape. Much as I wanted tantalizing keto-friendly foods, cheat days for non-keto foods, I vowed to eat only simple keto meals to make it easy to stick with this new way of eating.
+
+<center><b><em>Do. Or do not. There is no try. -- Yoda</em></b></center>
 
 <a name="shopping"></a>
 ### Shopping
 
-I claimed a kitchen cabinet and a refrigerator shelf. In the store I pored over nutritional labels, pretending to be zero-carb, knowing the tiniest bits of carbs will add up to the smallest possible total. I won't mention "low-carb" before each item, but you now know how to shop. (Don't look at fat content; fat will be your perfect fuel in the weeks to come.)
+For keto I claimed a kitchen cabinet and a refrigerator shelf. In the grocery I pored over nutritional labels, pretending to be [zero-carb](https://www.reddit.com/r/zerocarb/), knowing the tiniest bits of carbs will add up to the smallest possible total. I won't mention "low-carb" before each item, but you now know how to shop. (Don't look at fat content; fat will be your perfect fuel in the weeks to come.)
 
 * unsalted butter
 * lite salt (for the potassium)
-* low-carb broth (for "keto flu")
-* heavy whipping cream, half-and-half, or coconut creamer (Trader Joe's) (for coffee)
+* broth (for "keto flu")
+* heavy whipping cream, half-and-half, or [Trader Joe's](https://www.traderjoes.com/) [coconut creamer](https://www.traderjoes.com/FearlessFlyer/Article/3521) (for coffee)
 * garlic, grated in a glass jar (optional)
 * any spices with a low-carb count
 * several flats of eggs
-* breakfast meats: low-carb salami, bacon
+* breakfast meats: salami, bacon
 * almonds, roasted, salted or plain
 * dinner meats:
     * beef, ground beef
@@ -111,7 +114,7 @@ I'm sure I've forgotten a few things; feel free to tweak this list to your likin
 <a name="electrolypes"></a>
 ### Electrolytes before you start
 
-A side-effect of nutritional ketosis is your body flushing out more water than usual, along with electrolytes; sodium, potassium, and magnesium. Behavioral side-effects include:
+A side-effect of nutritional ketosis is your body flushing out more water than usual, along with electrolytes -- sodium, potassium, and magnesium. Behavioral side-effects include:
 
 * **keto flu** -- During the transition from using carbs as fuel to using your body fat you may experience an intense period of flu-like symptoms: aches, low energy.
 
@@ -134,12 +137,12 @@ and yields 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 <a name="take_pix_"></a>
 ### Capture this moment
 
-* By whatever method you chose, log your weight today.
+* Log today's weight. The journey starts today.
 
-* Take 'before' pictures, even though you may not be thrilled with your shape today. You _will_ regret not having them later, trust me. Take one set of street clothes, another in underwear. Do not get rid of those clothes before you hit your target weight :-)
+* Take 'before' pictures, even though you may not be thrilled with your shape today. You _will_ regret not having them later, trust me. Take one set of street clothes, another in underwear. Do not get rid of those clothes before you hit your target weight, if ever. :-)
 
 <a name="weigh_and_log"></a>
-### Weigh and log before you eat
+### Weigh and log food before you eat
 
 With whatever diet / way of eating you choose, the key idea is that you _must_ eat fewer calories than you consume. This is called _deficit_. Walking and sports can add to this deficit, but if you're taking in more than you burn you will gain weight.
 
@@ -193,9 +196,13 @@ Another note about vegetables: I've been asked why vegetables don't feature more
 
 Most of us food as comfort.
 
-The saw-tooth pattern you see in my graph, above, shows the effects of complacience (perhaps denial) and stress that comes with job loss, divorce, selling a house, and a handful of foreign trips (which had very notable, almost famous, high-carb foods that I just _had_ to have). Also easy to see are the key decision points during that stressful time; I got frustrated with my weight, got back on low-carb, got distracted, and the result was yo-yo dieting.
+The saw-tooth pattern you see in my graph, above, shows the effects of complacency (perhaps denial) and stress that comes with job loss, divorce, selling a house, and a handful of foreign trips (which had very notable, almost famous, high-carb foods that I just _had_ to have).
 
-My success on keto is due to :
+![MianYang 绵阳, Sichuan 四川省, China 中国](i/20171026_161833-mingyang.jpg)<br>_MianYang 绵阳, Sichuan 四川省, China 中国_
+
+Also easy to see are the key decision points during that stressful time; I got frustrated with my weight, got back on low-carb, got distracted, and the result was yo-yo dieting.
+
+My success on keto is due to:
 
 1. ease of following this way of eating
 
@@ -215,19 +222,15 @@ According to Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/1
 
 The term stall (or plateau) refers to successful weight loss that stops, despite continued keto. There are a good number of lay theories about this, as well as suggested ways to "break a stall".
 
-* an extended fast, removing calories
-
-* eat less food, lowering calories
-
-* add more food, upping calories
-
-* eat special food, like the "egg fast"
-
-* try 16:8 or 20:4 [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting) if you're not already doing IF
+* no calories -- an extended fast
+* less calories -- less food
+* more calories -- more food
+* special food -- "egg fast", etc.
+* [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting) if you're not already doing IF
 
 Until recently I didn't have experience with stalls. Now, at about 12 lbs (5.5 kg) above the calculated ideal weight, my daily weight-loss has gone from about 0.46 lb (0.21 kg) to zero. Now I understand the panicked frustration I've heard others use in discussing stalls.
 
-Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating significantly under my daily calorie limit (because I'm just not hungry) and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
+Coincidentally I heard Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating significantly under my daily calorie limit (because I'm just not hungry) and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
 
 So my first attempt at breaking this stall is to continue on my keto, being mindful to hit my [calculated](https://keto-calculator.ankerl.com/) daily calorie intake.
 
@@ -238,7 +241,7 @@ So my first attempt at breaking this stall is to continue on my keto, being mind
 
 * **bacon** - Through publicity, bacon is the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.<a name="bacon"></a>
 
-* **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis.<a name="strips"></a>
+* **ketone test strips** - To measure urine ketone level; available at pharmacies. Completely unnecessary; save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis. Source: _[The Art and Science of Low Carbohydrate Living](http://www.artandscienceoflowcarb.com/)_ (Phinney & Volek).<a name="strips"></a>
 
 <a name="education"></a>
 ### Get educated
@@ -248,7 +251,9 @@ The following is a very imperfect and incomplete list of some of the resources I
 <a name="community"></a>
 #### Immerse yourself in community
 
-While you're keto'ing use online communities to get more information about keto, keto-friendly recipes, and support for the struggle. I recommend [Reddit](http://reddit.com/r/keto).
+While you're keto'ing use _reliable_ online communities to get more information about keto, keto-friendly recipes, and support for the struggle.
+
+* [reddit.com/r/keto](http://reddit.com/r/keto)
 
 <a name="watch"></a>
 #### Watch videos
@@ -261,8 +266,8 @@ While you're keto'ing use online communities to get more information about keto,
 * [Keto Talk with Jimmy Moore & Dr Will Cole](http://ketotalk.com/)
 * [Keto for Normies](http://ketoconnect.libsyn.com/website)
 
-<a name="read"></a>
-#### Read scholarly articles
+<a name="articles"></a>
+#### Read articles
 
 * Journal of the American Medical Association, _[Interest in the Ketogenic Diet Grows for Weight Loss and Type 2 Diabetes](https://jamanetwork.com/journals/jama/fullarticle/2669724)_, Jennifer Abbasi, 2018.
 
@@ -279,6 +284,13 @@ While you're keto'ing use online communities to get more information about keto,
 * Peter Attia MD, _[How to make a fat cell less not thin: the lessons of fat flux](https://peterattiamd.com/how-to-make-a-fat-cell-less-not-thin-the-lessons-of-fat-flux/)_, 2013.
 
 * SCI-FIT, _[A Collection of 200+ Keto and Carbohydrate Studies](http://sci-fit.net/2017/keto-study-collection/)_, Adam Tzur, 2017.
+
+<a name="books"></a>
+#### Read books
+
+* _[The Art and Science of Low Carbohydrate Living](https://www.amazon.com/gp/product/0983490708?ie=UTF8&tag=mickeys-20&camp=1789&linkCode=xm2&creativeASIN=0983490708)_ (Stephen Phinney, MD PhD & Jeff Volek, Phd RD), 2011.
+
+* _[Why We Get Fat: And What to Do About It](https://www.amazon.com/gp/product/0307474259?ie=UTF8&tag=mickeys-20&camp=1789&linkCode=xm2&creativeASIN=0307474259)_, Gary Taubes, 2011.
 
 <a name="conclusion"></a>
 ### That's it! Just do it!
