@@ -1,11 +1,16 @@
 # SimplestKeto<sup>TM</sup>
 
-version 1.0.5 -- Spellcheck!
+version 1.0.6 -- Ketoade recipe, slight reorg.
+
+<a name="introduction"></a>
+## keto, as simple as possible
+
+Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
 ## Table of Contents
+
 <font size="-1">
 
-1. [Introduction](#introduction)
 1. [Who am I?](#who_am_i)
 1. [What is keto?](#what_is_keto)
 1. [What must you bring to this?](#what_you_provide)
@@ -14,11 +19,14 @@ version 1.0.5 -- Spellcheck!
     * [Shopping](#shopping)
     * [Electrolytes before you start](#electrolypes)
     * [Weigh and log before you eat](#weigh_and_log)
-    * [Keto lore](#lore)
     * [Start cooking and eating](#cooking_and_eating)
     * [Work on your relationship with food](#food_relationship_)
     * [Sleep](#sleep)
     * [Stalls & plateaus](#stalls)
+    * [Keto lore](#lore)
+		- [bulletproof coffee](#bulletproof_coffee)
+		- [bacon](#bacon)
+		- [ketone test strips](#strips)
     * [Get educated](#education)
         - [Immerse yourself in community](#community)
         - [Watch videos](#watch)
@@ -27,11 +35,6 @@ version 1.0.5 -- Spellcheck!
 1. [That's it! Just do it!](#conclusion)
 
 </font>
-
-<a name="introduction"></a>
-## keto, done as simply as possible
-
-Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
 <a name="who_am_i"></a>
 ## Who am I?
@@ -120,7 +123,13 @@ Replenish these very important electrolytes most easily with:
 
 * **magnesium supplement** -- Any store with supplements may have magnesium. Check ingredients for sugars (sugar, dextrose, etc). According to the pharmacist with whom I spoke, magnesium oxide is the most bioavailable, although many use magnesium citrate.
 
-Check labels and online for amounts to use, side-effects, and recipes for _ketoade_ (a drinkable way to replenish).
+_Ketoade_ is made by combining
+
+	* 24 oz (700 ml) water
+	* 0.25 teaspoon (1.25 g) light salt
+	* 0.5 tablespoon (7 g) magnesium citrate
+
+and yields 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
 <a name="take_pix_"></a>
 ### Capture this moment
@@ -135,15 +144,6 @@ Check labels and online for amounts to use, side-effects, and recipes for _ketoa
 With whatever diet / way of eating you choose, the key idea is that you _must_ eat fewer calories than you consume. This is called _deficit_. Walking and sports can add to this deficit, but if you're taking in more than you burn you will gain weight.
 
 Most humans are terrible at estimating quantities. Counter this by weighing and logging each ingredient (or prepared food) before it enters your mouth.
-
-<a name="lore"></a>
-### Keto lore
-
-* **bulletproof coffee** - [Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil](https://www.nytimes.com/2014/12/14/style/the-cult-of-the-bulletproof-coffee-diet.html). It's _not_ essential for keto. You don't _need_ special coffee beans, butters, or MCT oils, although you may choose later on to try more expensive offerings. (In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.)
-
-* **bacon** - Through publicity, bacon is the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.
-
-* **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis.
 
 <a name="cooking_and_eating"></a>
 ### Start cooking and eating
@@ -230,6 +230,15 @@ Until recently I didn't have experience with stalls. Now, at about 12 lbs (5.5 k
 Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating significantly under my daily calorie limit (because I'm just not hungry) and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
 
 So my first attempt at breaking this stall is to continue on my keto, being mindful to hit my [calculated](https://keto-calculator.ankerl.com/) daily calorie intake.
+
+<a name="lore"></a>
+### Keto lore
+
+* **bulletproof coffee** - [Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil](https://www.nytimes.com/2014/12/14/style/the-cult-of-the-bulletproof-coffee-diet.html). It's _not_ essential for keto. You don't _need_ special coffee beans, butters, or MCT oils, although you may choose later on to try more expensive offerings. (In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.)<a name="bulletproof_coffee"></a>
+
+* **bacon** - Through publicity, bacon is the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.<a name="bacon"></a>
+
+* **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis.<a name="strips"></a>
 
 <a name="education"></a>
 ### Get educated
