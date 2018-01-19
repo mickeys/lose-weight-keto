@@ -1,11 +1,39 @@
 # SimplestKeto<sup>TM</sup>
 
-version 1.0.3 -- Added to sleep, podcasts, stalls & plateaus, scholarly articles...
+version 1.0.4 -- Added TOC
 
+## Table of Contents
+<font size="-1">
+
+1. [Introduction](#introduction)
+1. [Who am I?](#who_am_i)
+1. [What is keto?](#what_is_keto)
+1. [What must you bring to this?](#what_you_provide)
+1. [Enough already! Let's start!](#start)
+	* [Mindset](#mindset)
+	* [Shopping](#shopping)
+	* [Electrolytes before you start](#electrolypes)
+	* [Weigh and log before you eat](#weigh_and_log)
+	* [Keto lore](#lore)
+	* [Start cooking and eating](#cooking_and_eating)
+	* [Work on your relationship with food](#food_relationship_)
+	* [Sleep](#sleep)
+	* [Stalls & plateaus](#stalls)
+	* [Get educated](#education)
+		- [Immerse yourself in community](#community)
+		- [Watch videos](#watch)
+		- [Listen to podcasts](#listen)
+		- [Read scholarly articles](#read)
+	* [That's it! Just do it!](#conclusion)
+
+</font>
+
+<a name="introduction"></a>
 ## keto, done as simply as possible
 
 Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss, and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
+<a name="who_am_i"></a>
 ## Who am I?
 
 I'm you. My day is spent in an office. I'm not thrilled by, nor do I have time for, sweaty daily exercise. Food; I love everything about it: cooking, eating, researching exotic recipes. Without counting calories I ate what I wanted.
@@ -18,12 +46,14 @@ I went through several different ways of eating: CICO (calories in < calories ou
 
 I stumbled onto keto in late 2017. I learned to watch both my calories and macronutrients (macros). I was impatient to get slimmer. It was a busy season, so I decided to work out the simplest and most effective way to get and stay on keto. This is the distillation of what I learned.
 
+<a name="what_is_keto"></a>
 ## What is keto?
 
 Keto is a low-carb high-fat diet (LCHF) diet that switches your body into a fuel-burning state that consumes your body fat. Most of keto is counter-intuitive, flying against common folk wisdom that passes for "what everyone knows".
 
 There's a lot for you to read out there, to gain a scientific underpinning of how and why keto works, even though all of it sounds wrong. You don't need to know any of it to get started, but you'll have plenty of time as you see the weight falling off :-)
 
+<a name="what_you_provide"></a>
 ## What must you bring to this?
 
 * Suspension of disbelief for a limited period of time, 30-90 days; the loss phase. Forget everything you have been taught about healthy eating and dieting and just do this. For the duration believe that fat is great, sugar is evil, and carbs are bad.
@@ -42,14 +72,17 @@ There's a lot for you to read out there, to gain a scientific underpinning of ho
 
 * A doctor's visit to ensure that you're healthy enough. You needn't state that you're planning on doing keto, especially as many physicians last learned (inaccurate information) about nutrition in med school. Just be healthy enough.
 
+<a name="start"></a>
 ## Enough already! Let's start!
 
 Great that you're impatient. Here's what worked for me:
 
+<a name="mindset"></a>
 ### Mindset
 
 Get into the mindset. Nothing must be more important than getting into shape. Much as I wanted tantalizing keto-friendly foods, cheat days for non-keto foods, I vowed to eat only simple keto meals to make it easy to stick with it.
 
+<a name="shopping"></a>
 ### Shopping
 
 I claimed a kitchen cabinet and a refridgerator shelf. In the store I pored over nutritional labels, pretending to be zero-carb, knowing the tiniest bits of carbs will add up to the smallest possible total. I won't mention "low-carb" before each item, but you now know how to shop. (Don't look at fat content; fat will be your perfect fuel in the weeks to come.)
@@ -72,6 +105,7 @@ For right now no fruit, no vegetables, no snacks, nothing sweet, no dairy, no su
 
 I'm sure I've forgotten a few things; feel free to tweak this list to your liking.
 
+<a name="electrolypes"></a>
 ### Electrolytes before you start
 
 A side-effect of nutritional keytosis is your body flushing out more water than usual, along with electrolytes; sodium, potassium, and magnesium. Behavioral side-effects include:
@@ -88,18 +122,21 @@ Replenish these very important electrolytes most easily wih:
 
 Check labels and online for amounts to use, side-effects, and recipes for _ketoade_ (a drinkable way to replenish).
 
+<a name="take_pix_"></a>
 ### Capture this moment
 
 * By whatever method you chose, log your weight today.
 
 * Take 'before' pictures, even though you may not be thrilled with your shape today. You _will_ regret not having them later, trust me. Take one set with street clothes, another in underwear. Do not get rid of those clothes before you hit your target weight :-)
 
+<a name="weigh_and_log"></a>
 ### Weigh and log before you eat
 
 With whatever diet / way of eating you choose, the key idea is that you _must_ eat less calories than you consume. This is called _deficit_. Walking and sports can add to this deficit, but if you're taking in more than you burn you will gain weight.
 
 Most humans are terrible at estimating quantities. Counter this by weighing and logging each ingredient (or prepared food) before it enters your mouth.
 
+<a name="lore"></a>
 ### Keto lore
 
 * **bulletproof coffee** - [Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil](https://www.nytimes.com/2014/12/14/style/the-cult-of-the-bulletproof-coffee-diet.html). It's _not_ essential for keto. You don't _need_ special coffee beans, butters, or MCT oils, although you may choose later on to try more expensive offerings. (In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.)
@@ -108,6 +145,7 @@ Most humans are terrible at estimating quantities. Counter this by weighing and 
 
 * **ketone test strips** - Show urine ketone level, available through pharmacies. Completely unnecessary, save your money for good meats. If you're eating less than 20 g carbs / day you're in ketosis.
 
+<a name="cooking_and_eating"></a>
 ### Start cooking and eating
 
 Gauge your hunger. When you feel "hungry" take a moment to see whether it's a need for fuel or a need for comfort. Drink something; much of what we feel as hunger is actually thirst. Give yourself five minutes to sit with the hungry. Know you'll have moments of hungry; it's all good, you'll survive. Use sticky notes to remind yourself.
@@ -150,6 +188,7 @@ Another note about vegetables: I've been asked why vegetables don't feature more
 
 1. The _need_ for fruits and vegetables isn't as clear-cut as our mothers would have us believe. While I've drawn no conclusions yet, my reading uncovers that meat is much more nutritionally dense than veggies, provide all needed nutrients (or precursors), and is more bioavailable than vegetables (to which some people have reactions). We were taught that lemons cured scury, but never that meat also does. Zero-carbers have been without veggies for an extended period of time without seeming issues. There are questions about the need for fiber. All of this requires more research and reading.
 
+<a name="food_relationship_"></a>
 ### Work on your relationship with food
 
 Most of use use food as comfort.
@@ -166,10 +205,12 @@ My success on keto is due to :
 
 1. a gentleness with myself, to get through the mental break at not eating every few hours, just sitting with any late-night hunger rather than running to the kitchen cabinet or refrigerator
 
+<a name="sleep"></a>
 ### Sleep
 
 According to Dr Will Cole, speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to keytone levels and weight loss. Do what you need to get good chunks of good sleep.
 
+<a name="stalls"></a>
 ### Stalls & plateaus
 
 The term stall (or plateau) refers to successful weight loss that stops, despite continued keto. There are a good number of lay theories about this, as well as suggested ways to "break a stall".
@@ -190,23 +231,28 @@ Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk
 
 So my first attempt at breaking this stall is to continue on my keto, being mindful to hit my [calculated](https://keto-calculator.ankerl.com/) daily calorie intake.
 
+<a name="education"></a>
 ### Get educated
 
 The following is a very imperfect and incomplete list of some of the resources I find helpfule.
 
+<a name="community"></a>
 #### Immerse yourself in community
 
 While you're keto'ing use online communities to get more information about keto, keto-friendly recipes, and support for the struggle. I recommend [Reddit](http://reddit.com/r/keto).
 
+<a name="watch"></a>
 #### Watch videos
 
 * [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/), 2012.
 
+<a name="listen"></a>
 #### Listen to podcasts
 
 * [Keto Talk with Jimmy Moore & Dr Will Cole](http://ketotalk.com/)
 * [Keto for Normies](http://ketoconnect.libsyn.com/website)
 
+<a name="read"></a>
 #### Read scholarly articles
 
 * Journal of the American Medical Association, _[Interest in the Ketogenic Diet Grows for Weight Loss and Type 2 Diabetes](https://jamanetwork.com/journals/jama/fullarticle/2669724)_, Jennifer Abbasi, 2018.
@@ -225,6 +271,7 @@ While you're keto'ing use online communities to get more information about keto,
 
 * SCI-FIT, _[A Collection of 200+ Keto and Carbohydrate Studies](http://sci-fit.net/2017/keto-study-collection/)_, Adam Tzur, 2017.
 
+<a name="conclusion"></a>
 ### That's it! Just do it!
 
 That's all you need to know to get started. I urge you to stay simple and be strict. Success to you!
