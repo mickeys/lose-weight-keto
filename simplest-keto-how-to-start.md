@@ -24,7 +24,7 @@ version 1.0.4 -- Added TOC
 		- [Watch videos](#watch)
 		- [Listen to podcasts](#listen)
 		- [Read scholarly articles](#read)
-	* [That's it! Just do it!](#conclusion)
+* [That's it! Just do it!](#conclusion)
 
 </font>
 
