@@ -186,7 +186,7 @@ The term stall (or plateau) refers to successful weight loss that stops, despite
 
 Until recently I didn't have experience with stalls. Now, at about 12 lbs (5.5 kg) above the calculated ideal weight, my daily weight-loss has gone from about 0.46 lb (0.21 kg) to zero. Now I understand the panicked frustration I've heard others use in discussing stalls.
 
-Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating under my calorie limit and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
+Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating significantly under my daily calorie limit (because I'm just not hungry) and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
 
 So my first attempt at breaking this stall is to continue on my keto, being mindful to hit my [calculated](https://keto-calculator.ankerl.com/) daily calorie intake.
 
