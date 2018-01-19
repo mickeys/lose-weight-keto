@@ -37,8 +37,8 @@ set output 'i/my_weight.png'			# our output goes there
 #	from STATS_min, graph 0.5 \
 #	to STATS_max, graph 0.5
 
-today_date='01/16/2018'
-today_weight='183.4'
+today_date='01/18/2018'
+today_weight='183.8'
 
 keto_start_date='10/30/2017'
 keto_start_weight='220.0'
@@ -159,13 +159,13 @@ unset key
 #
 # fix this to use the k_ideal_body_weight variable, set above
 # -----------------------------------------------------------------------------
-ideal_color='yellow'
+ideal_color='white'
 set label 95 at cico_start_date,"171.1" offset 1, k_lb_to_kg \
 	front font ',9' textcolor rgb ideal_color \
 	"Ideal Body Weight - 171 lb (77 kg)"
 
 # I hate hard-coding, but using graph 0, "171.1" fails somehow...
-set arrow nohead front linewidth 1 linecolor rgb ideal_color \
+set arrow nohead front linewidth 2 linecolor rgb ideal_color \
 	from cico_start_date, "171.1" to today_date, "171.1"
 
 # -----------------------------------------------------------------------------
@@ -261,13 +261,13 @@ unset border
 # ["11/27/2009":"03/05/2012"] file with filledcurves x1 lc rgb "yellow" lw 1
 # "<(/usr/local/bin/sed -n '/Weight/,/03\/05\/2012/{//!p}' loseit.csv)" using 1:2 every ::0::521 with filledcurves x1 \
 
-# colors from http://coloreminder.com/cce5ff
+# http://www.workwithcolor.com/hsl-color-picker-01.htm varying luminosity by 5%
+# 051EE1 5366FB 374EFB 6A7BFC 808EFC 94A0FD A7B1FD B9C1FE CBD1FE DDE1FE EEF0FF
+
 plot \
-	'part_cico.csv' using 1:2 with filledcurves x1 lc rgb "#0064cc" lw 1, \
-	'part_atkins.csv' using 1:2 with filledcurves x1 lc rgb "#007dff" lw 1, \
-	'part_lazy.csv' using 1:2 with filledcurves x1 lc rgb "#3397ff" lw 1, \
-	'part_keto.csv' using 1:2 with filledcurves x1 lc rgb "#66b1ff" lw 1, \
-	file using 1:2 with lines \
-		lc rgb "#004b99" lw 5, \
-	file using 1:2:(0.33) with points \
-		pointtype 7 lc rgb "red" ps variable
+	'part_cico.csv' using 1:2 with filledcurves x1 lc rgb "#051EE1" lw 1, \
+	'part_atkins.csv' using 1:2 with filledcurves x1 lc rgb "#374EFB" lw 1, \
+	'part_lazy.csv' using 1:2 with filledcurves x1 lc rgb "#808EFC" lw 1, \
+	'part_keto.csv' using 1:2 with filledcurves x1 lc rgb "#CBD1FE" lw 1, \
+	file using 1:2 with lines lc rgb "#004b99" lw 5, \
+	file using 1:2:(0.33) with points pointtype 7 lc rgb "red" ps variable

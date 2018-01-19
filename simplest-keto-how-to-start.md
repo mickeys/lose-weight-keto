@@ -1,6 +1,6 @@
 # SimplestKeto<sup>TM</sup>
 
-version 1.0.2
+version 1.0.3 -- Added to sleep, podcasts, stalls & plateaus, scholarly articles...
 
 ## keto, done as simply as possible
 
@@ -102,7 +102,7 @@ Most humans are terrible at estimating quantities. Counter this by weighing and 
 
 ### Keto lore
 
-* **bulletproof coffee** - Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil. It's _not_ essential for keto. In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.
+* **bulletproof coffee** - [Brewed hot coffee mixed with unsalted butter, ghee, MCT (medium-chain triglyceride) oil, or coconut oil](https://www.nytimes.com/2014/12/14/style/the-cult-of-the-bulletproof-coffee-diet.html). It's _not_ essential for keto. You don't _need_ special coffee beans, butters, or MCT oils, although you may choose later on to try more expensive offerings. (In fact, I consume most of my carbs one tablespoon at a time of [Trader Joe's Coconut Creamer](https://www.traderjoes.com/fearless-flyer/article/2118). I still hold my head up.)
 
 * **bacon** - Through publicity, bacon is the the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.
 
@@ -132,9 +132,13 @@ These are some of the things I ate during my keto loss phase. When I get picture
 
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time, and that I'm doing this for a goal that I really, really want.
 
-My version of dead simple isn't the same as others, although I picked it because it lets me  skate close to no-carb during the loss phase. A reviewer shares their method: _Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake._ With this method you must be doubly sure to keep an eye on creeping daily carb count.
+My version of dead simple isn't the same as others, although I picked it because it lets me  skate close to no-carb during the loss phase. A reviewer shares their method: Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake. (With this method you must be doubly sure to keep an eye on creeping daily carb count.)
 
-From another reviewer comes this version of basic keto: _...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed..._
+From another reviewer comes this version of basic keto: ...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed...
+
+Yet another said: Boredom is another reason people give up diets. Eating only protein and fat, stuff with a lot of umami, flavor would make me hate food and life. It’s literally no issue to work broccoli, spinach, and zucchini into the diet and stay under the carb amount.
+
+Also "[for breakfasts] I'll do deli slices in bacon grease, sausages, breakfast sausage, and just cheese sticks; never fancy unless I do eggs. For eggs: whisk with coconut milk, heavy cream, or whole milk. Working on cream cheese and egg pancakes: 1oz cream cheese per large egg, blend and pour in greased or buttered pan, powder with Stevia."
 
 Another note about vegetables: I've been asked why vegetables don't feature more prominently (or at all) in my weight-loss keto implementation.
 
@@ -160,9 +164,35 @@ My success on keto is due to :
 
 1. a burning commitment on winning each meal, not snacking in-between, and absolutely no self-sabotaging cheat until I hit my target weight
 
-1. a gentleness with myself, to get through the mental break at not eating every few hours, just sitting with any late-night hunger rather than running to the kitchen cabinet or refridgerator
+1. a gentleness with myself, to get through the mental break at not eating every few hours, just sitting with any late-night hunger rather than running to the kitchen cabinet or refrigerator
+
+### Sleep
+
+According to Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), "sleep stage 3 and 4" is essential to keytone levels and weight loss. Do what you need to get good chunks of good sleep.
+
+### Stalls & plateaus
+
+The term stall (or plateau) refers to successful weight loss that stops, despite continued keto. There are a good number of lay theories about this, as well as suggested ways to "break a stall".
+
+* go on an extended fast, removing calories
+
+* eat less food, lowering calories
+
+* add more food, upping calories
+
+* eat special food, like the "egg fast"
+
+* try 16:8 or 20:4 [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting) if you're not already doing IF
+
+Until recently I didn't have experience with stalls. Now, at about 12 lbs (5.5 kg) above the calculated ideal weight, my daily weight-loss has gone from about 0.46 lb (0.21 kg) to zero. Now I understand the panicked frustration I've heard others use in discussing stalls.
+
+Coincidentally I heard Dr Will Cole], speaking in [KetoTalk #45](http://ketotalk.com/2016/12/45-very-low-ketones-while-fit-cold-hands-feet-sleep-raising-ketones-salt-excessive-calories/), say eating too few calories causes fat cells to not release fat. I've been eating under my calorie limit and for the last few days have done a lot more walking; I may have tipped the hormonal balance out of my favor.
+
+So my first attempt at breaking this stall is to continue on my keto, being mindful to hit my [calculated](https://keto-calculator.ankerl.com/) daily calorie intake.
 
 ### Get educated
+
+The following is a very imperfect and incomplete list of some of the resources I find helpfule.
 
 #### Immerse yourself in community
 
@@ -172,21 +202,28 @@ While you're keto'ing use online communities to get more information about keto,
 
 * [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/), 2012.
 
+#### Listen to podcasts
+
+* [Keto Talk with Jimmy Moore & Dr Will Cole](http://ketotalk.com/)
+* [Keto for Normies](http://ketoconnect.libsyn.com/website)
+
 #### Read scholarly articles
 
-• Experimental & Clinical Cardiology, _[Long-term effects of a ketogenic diet in obese patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716748/)_, 2004.
+* Journal of the American Medical Association, _[Interest in the Ketogenic Diet Grows for Weight Loss and Type 2 Diabetes](https://jamanetwork.com/journals/jama/fullarticle/2669724)_, Jennifer Abbasi, 2018.
 
-• Paoli, Antonio, M.D. -- International Journal of Environmental Research and Public Health, _[Ketogenic Diet for Obesity: Friend or Foe?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/)_, 2014.
+* Experimental & Clinical Cardiology, _[Long-term effects of a ketogenic diet in obese patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716748/)_, 2004.
 
-• Beres, Derek -- [How the Keto Diet—Even Without Exercise—Slays the Opposition](http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise), 2017.
+* International Journal of Environmental Research and Public Health, _[Ketogenic Diet for Obesity: Friend or Foe?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945587/)_, Antonio Paoli MD, 2014.
 
-• Attia, Peter, M.D. - [Ketosis – advantaged or misunderstood state? (Part I) ](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-i/), 2012.
+* Derek Beres, _[How the Keto Diet—Even Without Exercise—Slays the Opposition](http://bigthink.com/21st-century-spirituality/how-the-keto-diet-with-no-exercise-outperforms-the-standard-american-diet-with-exercise)_, 2017.
 
-• Attia, Peter, M.D. - [Ketosis – advantaged or misunderstood state? (Part II)](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-ii/), 2013.
+* Peter Attia MD, _[Ketosis – advantaged or misunderstood state? (Part I) ](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-i/)_, 2012.
 
-• Attia, Peter, M.D. - [How to make a fat cell less not thin: the lessons of fat flux](https://peterattiamd.com/how-to-make-a-fat-cell-less-not-thin-the-lessons-of-fat-flux/), 2013.
+* Peter Attia MD, _[Ketosis – advantaged or misunderstood state? (Part II)](https://peterattiamd.com/ketosis-advantaged-or-misunderstood-state-part-ii/)_, 2013.
 
-• Tsur, Adam -- SCI-FIT, [A Collection of 200+ Keto and Carbohydrate Studies](http://sci-fit.net/2017/keto-study-collection/)
+* Peter Attia MD, _[How to make a fat cell less not thin: the lessons of fat flux](https://peterattiamd.com/how-to-make-a-fat-cell-less-not-thin-the-lessons-of-fat-flux/)_, 2013.
+
+* SCI-FIT, _[A Collection of 200+ Keto and Carbohydrate Studies](http://sci-fit.net/2017/keto-study-collection/)_, Adam Tzur, 2017.
 
 ### That's it! Just do it!
 
