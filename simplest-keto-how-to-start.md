@@ -1,4 +1,6 @@
+<a name="top"></a>
 # SimplestKeto<sup>TM</sup>
+
 | version | changes |
 |---|---|
 | 1.0.8 | diabetic ketoacidosis vs nutritional ketosis; magnesium citrate; excess protein not a worry |
@@ -132,7 +134,7 @@ _Ketoade_ is made by combining
 
 	* 24 oz (700 ml) water
 	* 0.25 teaspoon (1.25 g) light salt
-	* 0.5 tablespoon (7 g) magnesium oxide or citrate
+	* 0.5 tablespoon (7 g) citrate
 
 and yields 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
@@ -177,7 +179,7 @@ Does this limited menu get boring? Of course! Each time I reach into the fridge 
 
 My version of dead simple isn't the same as others, although I picked it because it lets me skate close to no-carb during the loss phase. A reviewer shares their method: Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake. (With this method you must be doubly sure to keep an eye on creeping daily carb count.)
 
-Note: worries about excess proteins being converted into glucose [seem unfounded](http://www.ketotic.org/2012/08/if-you-eat-excess-protein-does-it-turn.html).
+Note: worries about excess proteins being converted into glucose [seem](http://www.ketotic.org/2012/08/if-you-eat-excess-protein-does-it-turn.html) [unfounded](http://sci-fit.net/2017/carbs-protein-ketosis-research/#Does_a_high_protein_diet_prevent_ketosis).
 
 From another reviewer comes this version of basic keto: ...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed...
 
@@ -307,3 +309,5 @@ While you're keto'ing use _reliable_ online communities to get more information 
 ### That's it! Just do it!
 
 That's all you need to know to get started. I urge you to stay simple and be strict. Success to you!
+
+[top of page](#top)
