@@ -1,6 +1,7 @@
 # SimplestKeto<sup>TM</sup>
-
-version 1.0.7 -- Tweaks to community, stalls; added books.
+| version | changes |
+|---|---|
+| 1.0.8 | diabetic ketoacidosis vs nutritional ketosis; magnesium citrate; excess protein not a worry |
 
 <a name="introduction"></a>
 ## keto, as simple as possible
@@ -27,6 +28,7 @@ Newcomers to keto are often frustrated by slow weight loss and confused by the f
 		- [bulletproof coffee](#bulletproof_coffee)
 		- [bacon](#bacon)
 		- [ketone test strips](#strips)
+		- [diabetic ketoacidosis vs nutritional ketosis](#dka)
     * [Get educated](#education)
         - [Immerse yourself in community](#community)
         - [Watch videos](#watch)
@@ -124,13 +126,13 @@ Replenish these very important electrolytes most easily with:
 
 * **light salt** -- Most groceries contain salt substitutes that are either half or completely potassium chloride (with perhaps a trace of magnesium carbonate). Check the label to ensure no sugar, no carbs.
 
-* **magnesium supplement** -- Any store with supplements may have magnesium. Check ingredients for sugars (sugar, dextrose, etc). According to the pharmacist with whom I spoke, magnesium oxide is the most bioavailable, although many use magnesium citrate.
+* **magnesium supplement** -- Any store with supplements may have magnesium. Check ingredients for unwanted sugars (sugar, dextrose, etc). [Magnesium citrate is the most bioavailable](https://www.ncbi.nlm.nih.gov/m/pubmed/14596323/); the oxide form seems inert.
 
 _Ketoade_ is made by combining
 
 	* 24 oz (700 ml) water
 	* 0.25 teaspoon (1.25 g) light salt
-	* 0.5 tablespoon (7 g) magnesium citrate
+	* 0.5 tablespoon (7 g) magnesium oxide or citrate
 
 and yields 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
@@ -174,6 +176,8 @@ These are some of the things I ate during my keto loss phase. When I get picture
 Does this limited menu get boring? Of course! Each time I reach into the fridge I remind myself that it's for a limited time and that I'm doing this for a goal that I really, really want.
 
 My version of dead simple isn't the same as others, although I picked it because it lets me skate close to no-carb during the loss phase. A reviewer shares their method: Start with a vegetable that grows above ground. Add a variety of interesting proteins and fats in the form of meat, oil, a few nuts, cheese, and lots of salt. Fry or bake. (With this method you must be doubly sure to keep an eye on creeping daily carb count.)
+
+Note: worries about excess proteins being converted into glucose [seem unfounded](http://www.ketotic.org/2012/08/if-you-eat-excess-protein-does-it-turn.html).
 
 From another reviewer comes this version of basic keto: ...occasional salad greens, salsa, green beans, cabbage; rarely, but as desired within my 20 carb limit. I found kelp noodles which I’ve used once and enjoyed...
 
@@ -242,6 +246,13 @@ So my first attempt at breaking this stall is to continue on my keto, being mind
 * **bacon** - Through publicity, bacon is the gateway drug to keto. Most of us don't have it for breakfast, lunch, dinner, and snack. If it fits your macros, and you desire it, consume. If it doesn't, don't.<a name="bacon"></a>
 
 * **ketone test strips** - To measure urine ketone level; available at pharmacies. Completely unnecessary; save your money for good meats. If you're eating less than 20 g carbs/day you're in ketosis. Source: _[The Art and Science of Low Carbohydrate Living](http://www.artandscienceoflowcarb.com/)_ (Phinney & Volek).<a name="strips"></a>
+
+* **diabetic ketoacidosis vs. nutritional ketosis** - Persons with inadequate or outdated knowledge often confuse diabetic ketoacidosis (DKA), a life-threatening condition, with nutritional ketosis, a healthy, normal state.
+
+	DKA typically occurs when diabetics, (who don't produce insulin) are - because of illness, diet, or not taking an adequate insulin - unable to process ketones and wind up with an acidic bloodstream, which interferes with the liver and kidneys. 
+
+	Nutritional ketosis occurs when one eats very few carbs and processes body fat into ketones. Healthy people _cannot_ get DKA because they are able to produce insulin.
+<a name="dka">
 
 <a name="education"></a>
 ### Get educated
