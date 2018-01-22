@@ -26,3 +26,7 @@ Dr Jason Fong, MD, says _"Most magnesium (about 70%) taken orally is not absorbe
 [https://idmprogram.com/refeeding-syndromes-fasting-20/](https://idmprogram.com/refeeding-syndromes-fasting-20/)
 
 This makes figuring out dosage challenging; do you take enough tablets to wind up with the recommended magnesium amount before or after you throw out the 70%? I have no idea about this as of yet.
+
+| Please help keep this accurate |
+| :--- |
+| If you can cite more recent peer-reviewed clinical studies please let me know at  <a href='&#109;ai&#108;to&#58;&#109;%69c%68&#97;el%&#52;0&#115;&#97;&#116;&#116;le&#37;&#55;2&#115;&#37;2E&#37;6F%72&#103;'>mich&#97;&#101;&#108;&#64;sa&#116;tler&#115;&#46;org</a>. Thanks!
