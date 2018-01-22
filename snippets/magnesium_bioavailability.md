@@ -2,7 +2,7 @@
 
 | Note |
 | :--- |
-| This is a snippet; [SimplestKeto](https://github.com/mickeys/lose-weight-keto/blob/master/simplest-keto-how-to-start.md)<sup><font size="-2">TM</font></sup> is the main page. |
+| This is a snippet. See other snippets [here](https://github.com/mickeys/lose-weight-keto/tree/master/snippets). [SimplestKeto](https://github.com/mickeys/lose-weight-keto/blob/master/simplest-keto-how-to-start.md)<sup><font size="-2">TM</font></sup> is the main page. |
 
 When buying a magnesium supplement to replenish electrolytes (especially in the keto diet) we're faced with the choice between
 
