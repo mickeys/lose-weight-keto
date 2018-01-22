@@ -1,10 +1,11 @@
-# Why intermittent fasting?
+# How does intermittent fasting help with weight loss?
 
 | Note |
 | :--- |
 | This is a snippet. See other snippets [here](https://github.com/mickeys/lose-weight-keto/tree/master/snippets). [SimplestKeto](https://github.com/mickeys/lose-weight-keto/blob/master/simplest-keto-how-to-start.md)<sup><font size="-2">TM</font></sup> is the main page. |
 
-<a href="https://twitter.com/drjasonfung">Dr. Jason Fung</a> has an analogy that illustrates it nicely;
+<a href="https://twitter.com/drjasonfung">Dr. Jason Fung</a> has an analogy:
+
 > _Imagine you and your twin are going to eat 1200 calories._
 
 > _You spread it out during the day, so every hour you eat another 50 calories. What happens for you is every hour you give your insulin a nudge … new food coming in … need some insulin to use it, and that turns off access to body fat. Normally a few hours after eating a meal your insulin drops … but you are eating every hour. So you never access body fat … the total energy in your circulation for the day was 1200 … so now your body has to budget for that and furlough multiple optional processes, it’s going to be a pretty awful day for you. Your are likely to feel lethargic and hungry all day._
