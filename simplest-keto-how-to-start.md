@@ -3,12 +3,12 @@
 
 | version | changes |
 |---|---|
-| 1.0.8 | diabetic ketoacidosis vs nutritional ketosis; magnesium citrate; excess protein not a worry |
+| 1.0.9 | added video links, contraindications |
 
 <a name="introduction"></a>
-## keto, as simple as possible
+## keto, as simply as possible
 
-Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This is my experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
+Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This writing is _my_ experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
 ## Table of Contents
 
@@ -78,7 +78,7 @@ There's a lot for you to read out there -- [sources below](#read) -- to gain a s
 
 * A [digital food scale](https://www.amazon.com/gp/product/B0775DBSZG?ie=UTF8&tag=mickeys-20&camp=1789&linkCode=xm2&creativeASIN=B0775DBSZG). You'll need to accurately log the weight of foods. Humans are terrible at estimating.
 
-* A doctor's visit to ensure that you're healthy enough. You needn't state that you're planning on doing keto, especially as many physicians last learned (inaccurate information) about nutrition in med school. Just be healthy enough.
+* A doctor's visit to ensure that you're healthy enough. You needn't state that you're planning on doing keto, especially as many physicians last learned (inaccurate information) about nutrition in med school. Just be healthy enough. <font color="red">Contraindications for keto</font>: type 1 diabetics (who have issues with insulin and blood sugars) and those who have two copies of the Apolipoprotein E4 gene variant, ApoE4/E4, who often don’t respond well to saturated fats.
 
 <a name="start"></a>
 ## Enough already! Let's start!
@@ -271,7 +271,16 @@ While you're keto'ing use _reliable_ online communities to get more information 
 <a name="watch"></a>
 #### Watch videos
 
-* [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/), 2012.
+Some of the most accessible discussions of LFCH and keto. In general, focus on the physicians and try to ignore the nutritionists (who struggle with up-to-date clinical findings).
+
+* [The Perfect Human Diet](http://www.imdb.com/title/tt2014248/), 2012 - An search for a solution to the obesity epidemic, exploring modern dietary science, historical findings, ancestral native diets, and the emerging field of human dietary evolution. 
+* [Run On Fat - Cereal Killers 2 (2015)](http://www.runonfatmovie.com/) [trailer & links] - World-class triathlete Sami Inkinen  transitions from pre-diabetic sugar burner to being fat-fueled; with Dr Stephen Phinney and Dr Tim Noakes.
+* [Is Ketosis Dangerous (Science of Fasting & Low Carb Keto)](http://www.youtube.com/watch?v=Dan8qtgQRi8) - Made for the layman, beautifully cited, clearly explained.
+* [Ketogenic Diet Explained in Under 5 Minutes](http://www.youtube.com/watch?v=AOJxfh0b3o8) - whiteboard markers explain keto.
+* [Ketosis Explained in 5 Minutes ► Ketogenic Diets 101](http://www.youtube.com/watch?v=6eqKxtALt_4) - An entertaining, animated chalk-talk about keto basics by [Slim](https://goo.gl/TSDCuv).
+* [Low Carb Diet - Fat or Fiction?](http://www.youtube.com/watch?v=8GUIBNKnT1M) - Dr Maryanne Demasi.
+* [Butter Makes Your Pants Fall Off](https://www.youtube.com/watch?v=h6aMN6NLOTQ) - ['Butter' Bob Briggs](https://www.youtube.com/user/butterbobbriggs) presents a personal, lay persons recounting of how he lost 145 lbs. Inspired the [Butter Makes Your Pants Fall Off song](https://www.youtube.com/watch?v=B5S6YUDJ9HI). Come for the accent, stay for the knowledge.
+* [The Diet Doctor](https://www.dietdoctor.com/ten-years-ketogenic-research-dr-dominic-dagostino) [pay site with worthwhile free content] - Includes videos of such keto luminaries as Dr. Dominic D’Agostino.
 
 <a name="listen"></a>
 #### Listen to podcasts
