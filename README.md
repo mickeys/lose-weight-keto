@@ -12,15 +12,13 @@ Newcomers to keto are often frustrated by slow weight loss and confused by the f
 
 <center>
 		<tr><td><strong><em>Do, or do not, there is no 'try'.</em> -- Yoda</strong>
-</center>
+</center><br>
 
 This my how I lost ~50 pounds on keto; quickly, without needing to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
 <center>
-	<table>
-		<tr><td><strong>_If something's important to you you'll find a way.<br>If it isn't you'll find an excuse._ -- Ryan Blair</strong></td></tr>
-	</table>
-</center>
+		<tr><td><strong>If something's important to you you'll find a way.<br>If it isn't you'll find an excuse.</em> -- Ryan Blair</strong>
+</center><br>
 
 ## Table of Contents
 
