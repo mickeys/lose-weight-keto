@@ -10,15 +10,11 @@
 
 Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This writing is _my_ experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
-<center>
-<em>Do, or do not, there is no 'try'.</em> -- Yoda</strong>
-</center><br>
+> <em>Do, or do not, there is no 'try'.</em> -- Yoda
 
 This my how I lost ~50 pounds on keto; quickly, without needing to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
-<center>
-<em>If something's important to you you'll find a way.<br>If it isn't you'll find an excuse.</em> -- Ryan Blair</strong>
-</center><br>
+> <em>If something's important to you you'll find a way.<br>If it isn't you'll find an excuse.</em> -- Ryan Blair
 
 ## Table of Contents
 
@@ -90,11 +86,7 @@ There's a lot for you to read out there -- [sources below](#read) -- to gain a s
 
 * A doctor's visit to ensure that you're healthy enough. You needn't state that you're planning on doing keto, especially as many physicians last learned (inaccurate information) about nutrition in med school. Just be healthy enough. <font color="red">Contraindications for keto</font>: type 1 diabetics (who have issues with insulin and blood sugars) and those who have two copies of the Apolipoprotein E4 gene variant, ApoE4/E4, who often don’t respond well to saturated fats.
 
-<center>
-	<table>
-		<tr><td><strong>_Just Do It_ -- Nike</strong></td></tr>
-	</table>
-</center>
+> <em>Just Do It</em> -- Nike
 
 <a name="start"></a>
 ## Enough already! Let's start!
