@@ -11,14 +11,14 @@
 Newcomers to keto are often frustrated by slow weight loss and confused by the flood of new information that comes along with a new way of eating. This writing is _my_ experience; the simplest tough-love boot camp way of diving into keto, seeing the fastest weight loss and gaining enough confidence to stick with keto long enough to absorb what's necessary for a sustainable lifelong maintenance phase.
 
 <center>
-		<tr><td><strong><em>Do, or do not, there is no 'try'.</em> -- Yoda</strong>
-</center><br>
+<em>Do, or do not, there is no 'try'.</em> -- Yoda</strong>
+</center>
 
 This my how I lost ~50 pounds on keto; quickly, without needing to buy any special food prep devices, magic powders, strange foods, or -- and this might be the best of all -- exercise. I'll be as brief as possible, with some explanation below, and some inline links to resources I've found useful.
 
 <center>
-		<tr><td><strong>If something's important to you you'll find a way.<br>If it isn't you'll find an excuse.</em> -- Ryan Blair</strong>
-</center><br>
+<em>If something's important to you you'll find a way.<br>If it isn't you'll find an excuse.</em> -- Ryan Blair</strong>
+</center>
 
 ## Table of Contents
 
