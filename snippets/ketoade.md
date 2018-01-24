@@ -12,6 +12,14 @@ _Ketoade_ is made by combining
 
 yielding 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
+[https://en.wikipedia.org/wiki/Salt_substitute](https://en.wikipedia.org/wiki/Salt_substitute)
+
+> People with kidney failure, heart failure or diabetes should not use salt substitutes without medical advice, and according to Wikipedia, salt substitutes are contra-indicated for use with several medications.
+
+[https://www.nap.edu/read/10925/chapter/7#241](https://www.nap.edu/read/10925/chapter/7#241)
+
+Note: _more_ is not better; potassium overdose is potentially fatal.
+
 Note: three food sources of potassium are parsley, avocado, and mushrooms. 
 
 See also [magnesium bio-availability](./magnesium_bioavailability.md).
