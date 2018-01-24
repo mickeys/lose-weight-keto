@@ -12,6 +12,8 @@ _Ketoade_ is made by combining
 
 yielding 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
+Note: three food sources of potassium are parsley, avocado, and mushrooms. 
+
 See also [magnesium bio-availability](./magnesium_bioavailability.md).
 
 | Please help keep this accurate |
