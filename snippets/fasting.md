@@ -56,9 +56,15 @@ Evening: Amazingly, no hunger at all. I'm craving bacon and parmesan cheese (bot
 Weight: 180.4 lb (81 kg)<br>
 Change: -3.2 lb (-1.5 kg)
 
-I wake up early, full of energy. I was expecting the opposite, but my ketogenic body is silly-happy nibbling on my body fat. I'm completely satiated, like breakfast was a half-hour ago.
+Morning: I wake up early, full of energy. I was expecting the opposite, but my ketogenic body is silly-happy nibbling on my body fat. I'm completely satiated, like breakfast was a half-hour ago.
 
-I'm walking now, and I notice that my upper arms feel a bit weak, as they do after push-ups (said as comparison; I haven't done any during this keto loss phase to change only one variable).
+Afternoon: I'm walking now, and I notice that my upper arms feel a bit weak, as they do after push-ups (said as comparison; I haven't done any during this keto loss phase to change only one variable). Update: weakness all gone, and quickly. Maybe I made my bed pillow fort badly last night :-)
+
+Evening: Three days and no hunger pangs? I can't believe it! This is really validating that my fat is feeding me. Wow. I knew it from the weight loss over the last 2.5 months, but this adds another level of certainty.
+
+
+
+
 
 
 
