@@ -36,10 +36,10 @@ At day's end the mental game bests be, and I drink a cup of bone broth just to h
 
 ## Day 2
 
+<img src="../i/20180123-153305_16k_steps-sm.png" align="right" border="1">
 Weight: 181.8 lb (82 kg)<br>
 Change: -1.8 lb (-0.8 kg)
 
-<img src="../i/20180123-153305_16k_steps-sm.png" align="right" border="1">
 Morning: Plateau broken! I wake expecting the worst, but I'm amazed to feel wonderful, like I've already had a hearty keto breakfast. I'm full of energy and good mood. I take a long walk in the sunshine, marveling that it's even possible. This is the longest time I've fasted since the annual  headache and mood horrors of Yom Kippur. My body is feasting on body fat, and it's all happy, and I'm agog.
 
 With one fast day complete I'm seeing that fasting is a **complete mind game**. Eating is such a comfort, the cooking rituals and the reward food. The dormant kitchen is hard to bear. The silent coffee machine is downright disconcerting. For me it's harder than switching to keto.
@@ -53,10 +53,10 @@ Evening: Amazingly, no hunger at all. I'm craving bacon and parmesan cheese (bot
 
 ## Day 3
 
+<img src="../i/20180124-211826_27k_steps_sm.png" align="right" border="1">
 Weight: 180.4 lb (81 kg)<br>
 Change: -3.2 lb (-1.5 kg)
 
-<img src="../i/20180124-211826_27k_steps_sm.png" align="right" border="1">
 Morning: I wake up early, full of energy. I was expecting the opposite, but my ketogenic body is silly-happy nibbling on my body fat. I'm completely satiated, like breakfast was a half-hour ago.
 
 Afternoon: I'm walking now, and I notice that my upper arms feel a bit weak, as they do after push-ups (said as comparison; I haven't done any during this keto loss phase to change only one variable). Update: weakness all gone, and quickly. Maybe I made my bed pillow fort badly last night :-)
