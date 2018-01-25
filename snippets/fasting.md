@@ -70,8 +70,8 @@ It was hard being at my sister's house as they dug into freshly-delivered pizza,
 
 ## Day 4
 
-Weight: <br>
-Change: 
+Weight: 178.8 lb (81.1 kg)<br>
+Change: -4.8 lb (-2.2 kg)
 
 
 

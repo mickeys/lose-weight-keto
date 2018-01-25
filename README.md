@@ -142,9 +142,9 @@ _Ketoade_ is made by combining
 
 	* 24 oz (700 ml) water
 	* 0.25 teaspoon (1.25 g) light salt
-	* 0.5 tablespoon (7 g) citrate
+	* 0.5 tablespoon (7 g) magnesium citrate
 
-and yields 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
+for 290 mg sodium, 350 mg potassium, and 75 mg magnesium per bottle.
 
 <a name="take_pix_"></a>
 ### Capture this moment
