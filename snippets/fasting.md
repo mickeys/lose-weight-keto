@@ -37,6 +37,7 @@ At day's end the mental game bests be, and I drink a cup of bone broth just to h
 ## Day 2
 
 <img src="../i/20180123-153305_16k_steps-sm.png" align="right" border="1">
+
 Weight: 181.8 lb (82 kg)<br>
 Change: -1.8 lb (-0.8 kg)
 
@@ -54,6 +55,7 @@ Evening: Amazingly, no hunger at all. I'm craving bacon and parmesan cheese (bot
 ## Day 3
 
 <img src="../i/20180124-211826_27k_steps_sm.png" align="right" border="1">
+
 Weight: 180.4 lb (81 kg)<br>
 Change: -3.2 lb (-1.5 kg)
 
