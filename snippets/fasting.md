@@ -6,6 +6,8 @@
 
 This is a recounting of my first longer-term fast, which I decided to do because I hit a [plateau](./plateaus_and_stalls.md) (sometimes called a 'stall') which a week of [intermittent fasting](intermittent_fasting.md) didn't break.
 
+This is a water fast. Water, electrolytes, squeeze of lemon. Nothing more. (Those of you know how much I love coffee won't believe it, but there it is.)
+
 ## Backstory
 
 Perhaps my fear of fasting will help you through yours; here's how it came to be.
@@ -49,7 +51,7 @@ I take my [magnesium citrate](snippets/magnesium_bioavailability.md) tablets and
 
 Afternoon: I'm doing no exercise during my keto loss phase except for walking. Usually it's 5-10,000 steps; today was a bit more.
 
-Evening: Amazingly, no hunger at all. I'm craving bacon and parmesan cheese (both comfort snack foods) but no traditional hungry symptoms: no tummy rumbles, no headache, no real _need_. Eh, time for bed.
+Evening: Amazingly, no hunger at all. I was told that ghrelin, the hunger hormone, spikes on he second day of fasting, but not for me. I'm craving bacon and parmesan cheese (both comfort snack foods) but no traditional hungry symptoms: no tummy rumbles, no headache, no real _need_. Eh, time for bed.
 <br clear="right">
 
 ## Day 3
@@ -70,12 +72,22 @@ It was hard being at my sister's house as they dug into freshly-delivered pizza,
 
 ## Day 4
 
+<img src="../i/20180125-214949_26k_steps-sm.png" align="right" border="1">
+
 Weight: 178.8 lb (81.1 kg)<br>
 Change: -4.8 lb (-2.2 kg)
 
+The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/watch?v=n3dwizlGaRI)!
 
+Morning: No hunger, but my brain sorely wants the rituals of cooking: the smell of the salami, the sizzle of the eggs. I'm thirsty, really thirsty, constantly sipping my [ketoade](./ketoade.md), but not hungry.
 
+Afternoon: Walked. No flagging energy, my mood is estatic, no mental fog. Carrying lunch around my belly is working just fine.
 
+Evening: Having frequent intrusive thoughts about pizza and "wet" burritos, but no actual hunger. Feeling the social brain buzz urging me to go cook something, for the sizzle and smell, but it's at a distance, not compelling. Soon it's bed-time and I've had another day of fasting without any inconvience (tho I still can't believe it).
+
+## Day 5
+
+(sweet dreams, me)
 
 | Please help keep this accurate |
 | :--- |
