@@ -37,8 +37,8 @@ set output 'i/my_weight.png'			# our output goes there
 #	from STATS_min, graph 0.5 \
 #	to STATS_max, graph 0.5
 
-today_date='01/25/2018'
-today_weight='178.8'
+today_date='01/26/2018'
+today_weight='177.4'
 
 keto_start_date='10/30/2017'
 keto_start_weight='220.0'
