@@ -41,7 +41,8 @@ At day's end the mental game bests be, and I drink a cup of bone broth just to h
 <img src="../i/20180123-153305_16k_steps-sm.png" align="right" border="1">
 
 **Weight**: 181.8 lb (82 kg)<br>
-**Change:** -1.8 lb (-0.8 kg)
+**Day loss**: -1.8 lb (-0.8 kg)<br>
+**Total loss:** -1.8 lb (-0.8 kg)
 
 **Morning:** Plateau broken! I wake expecting the worst, but I'm amazed to feel wonderful, like I've already had a hearty keto breakfast. I'm full of energy and good mood. I take a long walk in the sunshine, marveling that it's even possible. This is the longest time I've fasted since the annual  headache and mood horrors of Yom Kippur. My body is feasting on body fat, and it's all happy, and I'm agog.
 
@@ -59,7 +60,8 @@ I take my [magnesium citrate](snippets/magnesium_bioavailability.md) tablets and
 <img src="../i/20180124-211826_27k_steps_sm.png" align="right" border="1">
 
 **Weight**: 180.4 lb (81 kg)<br>
-**Change:** -3.2 lb (-1.5 kg)
+**Day loss**: -1.4 lb (-0.6 kg)<br>
+**Total loss:** -3.2 lb (-1.5 kg)
 
 **Morning:** I wake up early, full of energy. I was expecting the opposite, but my ketogenic body is silly-happy nibbling on my body fat. I'm completely satiated, like breakfast was a half-hour ago.
 
@@ -75,7 +77,8 @@ It was hard being at my sister's house as they dug into freshly-delivered pizza,
 <img src="../i/20180125-214949_26k_steps-sm.png" align="right" border="1">
 
 **Weight**: 178.8 lb (81.1 kg)<br>
-**Change:** -4.8 lb (-2.2 kg)
+**Day loss**: -1.6 lb (-0.7 kg)<br>
+**Total loss:** -4.8 lb (-2.2 kg)
 
 The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/watch?v=n3dwizlGaRI)!
 
@@ -90,13 +93,30 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 <img src="../i/20180126-173155_26k_steps_sm.png" align="right" border="1">
 
 **Weight**: 177.4 lb (80.5 kg)<br>
-**Change:** -6.2 lb (-2.8 kg)
+**Day loss**: -1.4 lb (-0.6 kg)<br>
+**Total loss:** -6.2 lb (-2.8 kg)
 
 **Morning:** Up an hour early, full of energy. No fog, no aches, happy to be on day 5. The brain _wants_ the ritual of morning cooking, but there's no hint of being hungry.
 
 **Afternoon:** Walked all over. No discomfort. No hunger. The crazy thirst from days ago is long gone, it's back to normal. Reminder: all I'm having on this fast is water, electrolytes, and the occasional Earl Gray tea.
 
 **Evening:** I started this fast nervous about not eating -- the fear of not having something to eat was first and foremost -- but now I'm on day #5, the weight is coming off, and I'm trying to figure out for how long I'm going to continue. The mind game is past, and there's no real pressure to stop, so I'll just have to see how long I want to go without the pleasures of eating.
+
+## Day 6
+
+<!--
+<img src="../i/" align="right" border="1">
+-->
+
+**Weight**: 176.0 lb ( 83.2 kg)<br>
+**Day loss**: -1.4 lb (-0.6 kg)<br>
+**Total loss:** -8.6 lb (-4 kg)
+
+**Morning:** Fasting is _boring_! I wake to the thought of the morning routine: cooking, smelling, and eating eggs and meat. But I'm not at my target weight yet, so it's another day of fasting. Argh! Well, at least it sunny outside so I can get some great steps in, watching the squirrels that have just come out, smelling the flowers. I'll walk 5,000 steps to a grocery store, to get some supplies for breaking the fast in a few days.
+
+**Afternoon:** 
+
+**Evening:**
 
 | Please help keep this accurate |
 | :--- |
