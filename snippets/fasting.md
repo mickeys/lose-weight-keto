@@ -104,9 +104,7 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 
 ## Day 6
 
-<!--
-<img src="../i/" align="right" border="1">
--->
+<img src="../i/20180127_steps_sm.png" align="right" border="1">
 
 **Weight**: 176.0 lb ( 83.2 kg)<br>
 **Day loss**: -1.4 lb (-0.6 kg)<br>
@@ -114,10 +112,6 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 
 **Morning:** Fasting is _boring_! I wake to the thought of the morning routine: cooking, smelling, and eating eggs and meat. But I'm not at my target weight yet, so it's another day of fasting. Argh! Well, at least it sunny outside so I can get some great steps in, watching the squirrels that have just come out, smelling the flowers. I'll walk 5,000 steps to a grocery store, to get some supplies for breaking the fast in a few days.
 
-**Afternoon:** 
+**Afternoon:** Lots of mental pull to cook and eat. Fantasies of all the restaurants I've loved, near and far :-)
 
-**Evening:**
-
-| Please help keep this accurate |
-| :--- |
-| If you can cite more recent peer-reviewed clinical studies please let me know at  <a href='&#109;ai&#108;to&#58;&#109;%69c%68&#97;el%&#52;0&#115;&#97;&#116;&#116;le&#37;&#55;2&#115;&#37;2E&#37;6F%72&#103;'>mich&#97;&#101;&#108;&#64;sa&#116;tler&#115;&#46;org</a>. Thanks!
+**Evening:** Walking finished, Google Fit didn't register a bunch of them, but whatever. Just making a caloric load for the body fat to feed :-)
