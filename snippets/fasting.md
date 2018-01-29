@@ -38,7 +38,7 @@ At day's end the mental game bests be, and I drink a cup of bone broth just to h
 
 ## Day 2
 
-<img src="../i/20180123-153305_16k_steps-sm.png" align="right" border="1">
+<img src="../i/20180123_steps_sm.png" align="right" border="1">
 
 **Weight**: 181.8 lb (82 kg)<br>
 **Day loss**: -1.8 lb (-0.8 kg)<br>
@@ -57,7 +57,7 @@ I take my [magnesium citrate](snippets/magnesium_bioavailability.md) tablets and
 
 ## Day 3
 
-<img src="../i/20180124-211826_27k_steps_sm.png" align="right" border="1">
+<img src="../i/20180124_steps_sm.png" align="right" border="1">
 
 **Weight**: 180.4 lb (81 kg)<br>
 **Day loss**: -1.4 lb (-0.6 kg)<br>
@@ -74,7 +74,7 @@ It was hard being at my sister's house as they dug into freshly-delivered pizza,
 
 ## Day 4
 
-<img src="../i/20180125-214949_26k_steps-sm.png" align="right" border="1">
+<img src="../i/20180125_steps_sm.png" align="right" border="1">
 
 **Weight**: 178.8 lb (81.1 kg)<br>
 **Day loss**: -1.6 lb (-0.7 kg)<br>
@@ -90,7 +90,7 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 
 ## Day 5
 
-<img src="../i/20180126-173155_26k_steps_sm.png" align="right" border="1">
+<img src="../i/20180126_steps_sm.png" align="right" border="1">
 
 **Weight**: 177.4 lb (80.5 kg)<br>
 **Day loss**: -1.4 lb (-0.6 kg)<br>
@@ -106,7 +106,7 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 
 <img src="../i/20180127_steps_sm.png" align="right" border="1">
 
-**Weight**: 176.0 lb ( 83.2 kg)<br>
+**Weight**: 176.0 lb ( 80 kg)<br>
 **Day loss**: -1.4 lb (-0.6 kg)<br>
 **Total loss:** -8.6 lb (-4 kg)
 
@@ -115,3 +115,21 @@ The plateau is completely broken; thank you [Dr Fung](http://www.youtube.com/wat
 **Afternoon:** Lots of mental pull to cook and eat. Fantasies of all the restaurants I've loved, near and far :-)
 
 **Evening:** Walking finished, Google Fit didn't register a bunch of them, but whatever. Just making a caloric load for the body fat to feed :-)
+
+## Day 7
+
+<img src="../i/20180128_steps_sm.png" align="right" border="1">
+
+**Weight**: 175.0 lb ( 78 kg)<br>
+**Day loss**: -1 lb (-0.4 kg)<br>
+**Total loss:** -9.6 lb (-4.4 kg)
+
+**Morning:** Awed that a week has gone by, with no challange faced but the games my brain was playing. No physical side-effects, except the occasional thirst, and never any flagging energy.
+
+**Afternoon:** Walking around, getting my steps. I've been contemplating extending this fast, but I miss the experience of cooking, smelling, and eating. It sounds silly to me as I'm typing it, but it matters a lot. Feeding the senses is a big part of a foodie's life, and the fast has been a deprivation of the mind more than it has of the body. Part of my walking is hitting a grocery store or three, picking up supplies for this week's cookery.
+
+**Evening:** Fast broken! A half cup of bone broth went down exactly a week after I started the fast. The first thing I notice is that my taste buds have completely forgotten how to taste; the broth tastes completely different than when I sampled it after making it last week. How long will it be until things taste correctly, I wonder.
+
+## After-fast notes
+
+Tomorrow...
