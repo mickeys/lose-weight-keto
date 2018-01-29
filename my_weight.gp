@@ -224,7 +224,7 @@ set label 4 sprintf( "%s lb\n%d kg", today_weight, today_weight * k_lb_to_kg ) \
 set arrow nohead linewidth 1 linecolor rgb title_color \
 	from cico_start_date, graph 1.0 to cico_start_date, "237.0"
 set label 96 at cico_start_date, graph 0.97 offset 0.5,0 \
-	textcolor rgb woe_color font ',9' "CICO"
+	textcolor rgb woe_color font ',9' "calories in < calories out"
 set label 98 at atkins_start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' "Atkins"
 
@@ -243,7 +243,7 @@ set arrow nohead front linewidth 1 linecolor rgb title_color \
 #	from keto_start_date, graph 1 to graph 1, graph 0
 set label 99 at keto_start_date, graph 0.97 offset 0.5,0 \
 	textcolor rgb woe_color font ',9' \
-	"Keto"
+	"Keto\nloss"
 set arrow nohead front linewidth 1 linecolor rgb title_color \
 	from keto_start_date, graph 1.0 to keto_start_date, keto_start_weight
 
